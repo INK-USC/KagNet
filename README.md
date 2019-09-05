@@ -134,3 +134,5 @@ python main.py
 }
 ``` 
 
+Feel free to email yuchen.lin[at]usc[dot]edu if you have any questions and need help. 
+
