@@ -1,0 +1,17 @@
+atlocation/locatednear
+capableof
+causes/causesdesire/*motivatedbygoal
+createdby
+desires
+antonym/distinctfrom
+hascontext
+hasproperty
+hassubevent/hasfirstsubevent/haslastsubevent/hasprerequisite/entails/mannerof
+isa/instanceof/definedas
+madeof
+notcapableof
+notdesires
+partof/*hasa
+relatedto/similarto/synonym
+usedfor
+receivesaction

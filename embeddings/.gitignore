@@ -1,0 +1,13 @@
+*.json
+*.vec
+*.vec.*
+*.txt
+*.npy
+*.npy.*
+*.freq
+*.sample
+glove
+relation_glove*
+concept_glove*
+!concept.txt
+!relation.txt

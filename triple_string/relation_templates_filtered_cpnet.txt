@@ -1,0 +1,119 @@
+antonym	#SUBJ# is the opposite of #OBJ#	1683.0290000000034
+atlocation	you are likely to find #SUBJ# in #OBJ#	19362.64200000006
+atlocation	*something you find at #OBJ# is #SUBJ#	6290.457000000028
+atlocation	*something you find in #OBJ# is #SUBJ#	5995.904000000019
+atlocation	*something you find on #OBJ# is #SUBJ#	1989.645999999997
+atlocation	you are likely to find #SUBJ# in #OBJ#.	970.9389999999993
+atlocation	*something you find under #OBJ# is #SUBJ#	542.9399999999998
+atlocation	somewhere #SUBJ# can be is in #OBJ#	348.31199999999995
+atlocation	somewhere #SUBJ# can be is on #OBJ#	126.86700000000002
+atlocation	somewhere #SUBJ# can be is #OBJ#	40.0
+atlocation	#SUBJ# is located in #OBJ#	38.0
+atlocation	you are likely to find #SUBJ# on #OBJ#	27.828
+atlocation	#SUBJ# can be at #OBJ#	11.0
+atlocation	*in #OBJ#, you can #SUBJ#	8.0
+atlocation	you are likely to find #SUBJ# at #OBJ#	7.0
+atlocation	you are likely to find #SUBJ# near #OBJ#	1.0
+capableof	#SUBJ# can #OBJ#	24401.26600000012
+capableof	an activity #SUBJ# can do is #OBJ#	757.4619999999999
+capableof	#SUBJ# can #OBJ#.	668.8799999999998
+capableof	#SUBJ# often #OBJ#	651.876
+capableof	#SUBJ# may #OBJ#	516.3
+capableof	#SUBJ# sometimes #OBJ#	313.292
+capableof	a #SUBJ# can #OBJ#	2.0
+causes	sometimes #SUBJ# causes #OBJ#	6567.668000000021
+causes	something that might happen as a consequence of #SUBJ# is #OBJ#	6506.955000000021
+causes	the effect of #SUBJ# is #OBJ#	5594.000000000015
+causes	sometimes #SUBJ# causes you to #OBJ#	932.5649999999996
+causes	the effect of #SUBJ# is #OBJ#.	320.412
+causes	#SUBJ# causes #OBJ#	210.0
+causes	something that might happen as a consequence of #SUBJ# is that #OBJ#	26.291999999999998
+causes	the effect of #SUBJ# is that #OBJ#	15.899000000000001
+causesdesire	#SUBJ# would make you want to #OBJ#	5604.949000000007
+createdby	#SUBJ# is created by #OBJ#.	343.204
+createdby	#SUBJ# is created by #OBJ#	4.0
+definedas	#SUBJ# is the #OBJ#	2088.687999999999
+definedas	#SUBJ# is the #OBJ#.	318.72399999999993
+definedas	#SUBJ# can be defined as #OBJ#	10.0
+desires	#SUBJ# wants #OBJ#	1824.6599999999985
+desires	#SUBJ# wants to #OBJ#	1535.1079999999993
+desires	#SUBJ# like to #OBJ#	522.909
+distinctfrom	#SUBJ# is not #OBJ#	1051.0159999999958
+entails	#SUBJ# entails #OBJ#	802.0
+hasa	#SUBJ# have #OBJ#	3447.038999999998
+hasa	#SUBJ# has #OBJ#	2617.3659999999986
+hasa	#SUBJ# contains #OBJ#	467.8009999999999
+hascontext	#SUBJ# is used in the context of #OBJ#	12930.392
+hascontext	#SUBJ# is used in the region of #OBJ#	2662.0
+hasfirstsubevent	the first thing you do when you #SUBJ# is #OBJ#	3677.476999999999
+haslastsubevent	the last thing you do when you #SUBJ# is #OBJ#	3241.278999999998
+hasprerequisite	if you want to #SUBJ# then you should #OBJ#	17766.45599999997
+hasprerequisite	#SUBJ# requires #OBJ#	7298.115000000032
+hasprerequisite	something you need to do before you #SUBJ# is #OBJ#	4015.5509999999954
+hasproperty	#SUBJ# is #OBJ#	5455.886000000006
+hasproperty	#SUBJ# are #OBJ#	3083.4619999999986
+hasproperty	#SUBJ# can be #OBJ#	1155.6599999999999
+hasproperty	#SUBJ# is generally #OBJ#	120.31200000000001
+hassubevent	something you might do while #SUBJ# is #OBJ#	9881.419000000027
+hassubevent	something that might happen when you #SUBJ# is #OBJ#	7506.259000000027
+hassubevent	something that might happen while #SUBJ# is #OBJ#	7312.433000000024
+hassubevent	one of the things you do when you #SUBJ# is #OBJ#	5185.256000000009
+hassubevent	when #SUBJ#, #OBJ#	377.292
+hassubevent	one of the things you do when you #SUBJ# is #OBJ#.	66.0
+instanceof	#SUBJ# is an instance of #OBJ#	1.0
+instanceof	#SUBJ# is an example of #OBJ#	1.0
+isa	#SUBJ# is a type of #OBJ#	150303.03900000008
+isa	#SUBJ# is #OBJ#	19694.708000000057
+isa	#SUBJ# are #OBJ#	4500.945000000001
+isa	#SUBJ# is a kind of #OBJ#.	1062.4689999999998
+isa	#SUBJ# is a kind of #OBJ#	664.3699999999997
+isa	#SUBJ# was #OBJ#	586.6119999999999
+isa	#SUBJ# is a type of #OBJ#.	540.0559999999998
+isa	#SUBJ# is a #OBJ#	124.286
+isa	a #SUBJ# is a #OBJ#	2.0
+locatednear	#SUBJ# is typically near #OBJ#	51.0
+madeof	#SUBJ# is made of #OBJ#.	548.1839999999997
+madeof	#SUBJ# are made of #OBJ#	47.828
+madeof	#SUBJ# is made of #OBJ#	30.828
+madeof	#SUBJ# can be made of #OBJ#	29.292
+madeof	#SUBJ# may be made of #OBJ#	15.0
+madeof	#SUBJ# may be made from #OBJ#	2.0
+mannerof	#SUBJ# is a way to #OBJ#	25270.0
+motivatedbygoal	you would #SUBJ# because #OBJ#	4527.558999999998
+motivatedbygoal	you would #SUBJ# because you want to #OBJ#	4495.144999999999
+motivatedbygoal	you would #SUBJ# because you want #OBJ#	2092.828999999998
+motivatedbygoal	you would #SUBJ# because you #OBJ#	13.0
+motivatedbygoal	*if you want to #OBJ# then you should #SUBJ#	4.0
+notcapableof	#SUBJ# do not #OBJ#	375.7009999999999
+notdesires	#SUBJ# doesn't want to #OBJ#	1950.243999999999
+notdesires	#SUBJ# doesn't want #OBJ#	1467.4479999999994
+notdesires	#SUBJ# does not want #OBJ#	7.292
+notdesires	#SUBJ# does not want to #OBJ#	2.0
+nothasproperty	#SUBJ# is not #OBJ#	341.464
+partof	#SUBJ# is a part of #OBJ#	17352.0
+partof	#SUBJ# is part of #OBJ#	1539.4209999999985
+partof	#SUBJ# is part of #OBJ#.	557.9159999999999
+partof	*#OBJ# has #SUBJ#	38.344
+partof	#SUBJ# has #OBJ#	1.0
+receivesaction	#SUBJ# is #OBJ#	2318.019999999999
+receivesaction	#SUBJ# can be #OBJ#	2267.4169999999995
+receivesaction	#SUBJ# are #OBJ#	1964.2469999999996
+relatedto	#SUBJ# is related to #OBJ#	72022.9620000029
+relatedto	#SUBJ# is like #OBJ#	1.0
+similarto	#SUBJ# is similar to #OBJ#	42476.0
+symbolof	#SUBJ# is a symbol of #OBJ#	4.0
+synonym	#SUBJ# is a synonym of #OBJ#	177032.5040000005
+usedfor	#SUBJ# is for #OBJ#	28910.99500000032
+usedfor	you can use #SUBJ# to #OBJ#	8833.166000000021
+usedfor	#SUBJ# is used for #OBJ#	7681.899000000043
+usedfor	#SUBJ# are used to #OBJ#	795.3589999999998
+usedfor	#SUBJ# is used to #OBJ#	792.4159999999998
+usedfor	#SUBJ# can be used to #OBJ#	385.76599999999985
+usedfor	#SUBJ# is used for #OBJ#.	252.61200000000002
+usedfor	#SUBJ# is for #OBJ#.	95.128
+usedfor	#SUBJ# is used for the benefit of #OBJ#	42.0
+usedfor	#SUBJ# can be used for #OBJ#	21.291
+usedfor	#SUBJ# are used for #OBJ#	20.0
+usedfor	#SUBJ# may be used to #OBJ#	10.828
+usedfor	*when you want to #OBJ#, you will use #SUBJ#	9.828
+usedfor	#SUBJ# may be used for #OBJ#	1.0

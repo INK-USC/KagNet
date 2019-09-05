@@ -1,0 +1,1926 @@
+synonym	#SUBJ# find another city in #OBJ#	14
+synonym	#SUBJ# was closed by #OBJ#	13
+synonym	#SUBJ# was renamed the democratic republic of #OBJ#	9
+synonym	#SUBJ# continues to serve #OBJ#	9
+synonym	#SUBJ# is registered as #OBJ#	9
+synonym	#SUBJ# are a thing of #OBJ#	8
+synonym	#SUBJ# just wasted on #OBJ#	8
+synonym	#SUBJ# please phone #OBJ#	8
+synonym	#SUBJ# will be remembered for #OBJ#	7
+synonym	#SUBJ# is much like #OBJ#	7
+synonym	#SUBJ# is now the democratic republic of #OBJ#	7
+synonym	#SUBJ# offers a simple way to locate #OBJ#	7
+synonym	#SUBJ# will be available shortly after #OBJ#	7
+synonym	#SUBJ# landed at #OBJ#	6
+synonym	#SUBJ# may sound like #OBJ#	6
+synonym	#SUBJ# have been single for #OBJ#	6
+synonym	#SUBJ# required to achieve #OBJ#	6
+synonym	#SUBJ# please provide #OBJ#	6
+synonym	#SUBJ# look up #OBJ#	6
+synonym	#SUBJ# shall continue as #OBJ#	6
+synonym	#SUBJ# was the first material used to make #OBJ#	6
+synonym	#SUBJ# are greater than #OBJ#	6
+synonym	#SUBJ# was the first time in #OBJ#	5
+synonym	#SUBJ# gave birth to #OBJ#	5
+synonym	#SUBJ# is defined as being precisely #OBJ#	5
+synonym	#SUBJ# was designed for #OBJ#	5
+synonym	#SUBJ# are the number one cause of #OBJ#	5
+synonym	#SUBJ# work for #OBJ#	5
+synonym	#SUBJ# happened on #OBJ#	5
+synonym	#SUBJ# is growing their business in #OBJ#	5
+synonym	#SUBJ# can be seen by #OBJ#	4
+synonym	#SUBJ# will study in #OBJ#	4
+synonym	#SUBJ# is treated as #OBJ#	4
+synonym	#SUBJ# can seem like #OBJ#	4
+synonym	#SUBJ# is illuminated with #OBJ#	4
+synonym	#SUBJ# spread for #OBJ#	4
+synonym	#SUBJ# want to choose #OBJ#	4
+synonym	#SUBJ# have to buy #OBJ#	4
+synonym	#SUBJ# may only apply for #OBJ#	4
+synonym	#SUBJ# may submit more than #OBJ#	4
+synonym	#SUBJ# are bidding on #OBJ#	4
+synonym	#SUBJ# invests in #OBJ#	4
+synonym	#SUBJ# is the largest celebration of #OBJ#	4
+synonym	#SUBJ# has a great number of #OBJ#	4
+synonym	#SUBJ# died suddenly #OBJ#	4
+synonym	#SUBJ# was ordained as #OBJ#	4
+synonym	#SUBJ# are told in #OBJ#	4
+synonym	#SUBJ# is the largest school in #OBJ#	4
+synonym	#SUBJ# is night of #OBJ#	4
+synonym	#SUBJ# is based off #OBJ#	4
+hasfirstsubevent	#SUBJ# went according to #OBJ#	3
+hasfirstsubevent	#SUBJ# is a pair of #OBJ#	2
+hasfirstsubevent	#SUBJ# stand up #OBJ#	2
+hasfirstsubevent	#SUBJ# be a son of #OBJ#	2
+hasfirstsubevent	#SUBJ# provides complete details of #OBJ#	2
+hasfirstsubevent	#SUBJ# is released through #OBJ#	2
+hasfirstsubevent	#SUBJ# have a wonderful effect on #OBJ#	2
+hasfirstsubevent	#SUBJ# just fold #OBJ#	2
+hasfirstsubevent	#SUBJ# start with #OBJ#	2
+hasfirstsubevent	#SUBJ# can be combined with #OBJ#	2
+hasfirstsubevent	#SUBJ# is intended as #OBJ#	2
+hasfirstsubevent	#SUBJ# helps prevent #OBJ#	2
+hasfirstsubevent	#SUBJ# might seem like #OBJ#	2
+hasfirstsubevent	#SUBJ# also feels great as #OBJ#	2
+genre	#SUBJ# is a computer version of #OBJ#	8
+genre	#SUBJ# were inducted into #OBJ#	8
+genre	#SUBJ# is a pioneer in #OBJ#	7
+genre	#SUBJ# was born as #OBJ#	5
+genre	#SUBJ# has loved #OBJ#	4
+genre	#SUBJ# will install #OBJ#	4
+genre	#SUBJ# is the artistic director of #OBJ#	4
+genre	#SUBJ# is wreaking havoc on #OBJ#	3
+genre	#SUBJ# this album</span>, <span class="title-string">is #OBJ#	3
+genre	#SUBJ# is awarded the pulitzer prize in #OBJ#	2
+genre	#SUBJ# was renamed into #OBJ#	2
+genre	#SUBJ# uses combinations of #OBJ#	2
+genre	#SUBJ# simply experience #OBJ#	2
+genre	#SUBJ# has become popular for #OBJ#	2
+genre	#SUBJ# wanted to stick with #OBJ#	2
+genre	#SUBJ# is the top dog of #OBJ#	2
+genre	#SUBJ# is the mobile version of #OBJ#	2
+genre	#SUBJ# has been a major exponent of #OBJ#	2
+genre	#SUBJ# will be inducted into #OBJ#	2
+genre	#SUBJ# is rated pg for #OBJ#	2
+genre	#SUBJ# is an implementation of #OBJ#	2
+genre	#SUBJ# is a plugin for #OBJ#	2
+genre	#SUBJ# are the summit of #OBJ#	2
+genre	#SUBJ# is the premier source of #OBJ#	2
+genre	#SUBJ# is called the father of #OBJ#	2
+genre	#SUBJ# no one</span>, <span class="title-string">churns out #OBJ#	2
+genre	#SUBJ# is music</span>, <span class="title-string">straddles the line between #OBJ#	2
+genre	#SUBJ# the music</span>, <span class="title-string">is #OBJ#	2
+genre	#SUBJ# the group</span>, <span class="title-string">found success with #OBJ#	2
+genre	#SUBJ# is a person of #OBJ#	2
+genre	#SUBJ# may prove to be #OBJ#	2
+definedas	#SUBJ# will be celebrating #OBJ#	9
+definedas	#SUBJ# celebrates the 40th anniversary of #OBJ#	9
+definedas	#SUBJ# is an acronym for #OBJ#	7
+definedas	#SUBJ# is played more than #OBJ#	6
+definedas	#SUBJ# will follow to #OBJ#	6
+definedas	#SUBJ# would be heaven on #OBJ#	6
+definedas	#SUBJ# is a family of #OBJ#	5
+definedas	#SUBJ# dimmed for #OBJ#	5
+definedas	#SUBJ# exist on #OBJ#	5
+definedas	#SUBJ# is often said to be #OBJ#	5
+definedas	#SUBJ# is a popular type of #OBJ#	4
+definedas	#SUBJ# is an evolution of #OBJ#	4
+definedas	#SUBJ# is destined to be #OBJ#	4
+definedas	#SUBJ# lived on #OBJ#	4
+definedas	#SUBJ# reflexes in #OBJ#	3
+definedas	#SUBJ# usually are concept #OBJ#	3
+definedas	#SUBJ# was short listed for #OBJ#	2
+definedas	#SUBJ# is the perfect accent to #OBJ#	2
+definedas	#SUBJ# scratched busily in #OBJ#	2
+definedas	#SUBJ# is one hell of #OBJ#	2
+definedas	#SUBJ# carries away by #OBJ#	2
+definedas	#SUBJ# is a composition of #OBJ#	2
+definedas	#SUBJ# is the shape of #OBJ#	2
+definedas	#SUBJ# is often known as #OBJ#	2
+definedas	#SUBJ# may contain links to #OBJ#	2
+definedas	#SUBJ# are overseen by #OBJ#	2
+definedas	#SUBJ# is an advanced form of #OBJ#	2
+definedas	#SUBJ# put forth by #OBJ#	2
+definedas	#SUBJ# is a document on #OBJ#	2
+definedas	#SUBJ# had really made a big impact to #OBJ#	2
+definedas	#SUBJ# can be accessed via #OBJ#	2
+definedas	#SUBJ# have flooded #OBJ#	2
+definedas	#SUBJ# is a computer on #OBJ#	2
+definedas	#SUBJ# is really happening on #OBJ#	2
+definedas	#SUBJ# set new benchmarks for #OBJ#	2
+definedas	#SUBJ# is the latest version of #OBJ#	2
+definedas	#SUBJ# relabeled as #OBJ#	2
+definedas	#SUBJ# works just like #OBJ#	2
+definedas	#SUBJ# cast out #OBJ#	2
+hasproperty	#SUBJ# had stopped at #OBJ#	16
+hasproperty	#SUBJ# is white with #OBJ#	16
+hasproperty	#SUBJ# is waiting at #OBJ#	14
+hasproperty	#SUBJ# is painted #OBJ#	14
+hasproperty	#SUBJ# changed from #OBJ#	14
+hasproperty	#SUBJ# are already included with #OBJ#	14
+hasproperty	#SUBJ# turns from #OBJ#	13
+hasproperty	#SUBJ# are constructed of #OBJ#	12
+hasproperty	#SUBJ# is kind of #OBJ#	11
+hasproperty	#SUBJ# is going through #OBJ#	10
+hasproperty	#SUBJ# are born #OBJ#	10
+hasproperty	#SUBJ# often makes #OBJ#	9
+hasproperty	#SUBJ# started out #OBJ#	9
+hasproperty	#SUBJ# shine in #OBJ#	9
+hasproperty	#SUBJ# is cyclical rather than #OBJ#	9
+hasproperty	#SUBJ# goes well with #OBJ#	9
+hasproperty	#SUBJ# is twice as #OBJ#	9
+hasproperty	#SUBJ# know the basics of #OBJ#	9
+hasproperty	#SUBJ# were denied #OBJ#	9
+hasproperty	#SUBJ# failed to stop at #OBJ#	8
+hasproperty	#SUBJ# turned right on #OBJ#	8
+hasproperty	#SUBJ# is half full instead of #OBJ#	8
+hasproperty	#SUBJ# are seen as #OBJ#	8
+hasproperty	#SUBJ# diagnosed with #OBJ#	8
+hasproperty	#SUBJ# are meant to be #OBJ#	8
+hasproperty	#SUBJ# moves in #OBJ#	8
+hasproperty	#SUBJ# was as blue as #OBJ#	8
+hasproperty	#SUBJ# is a beautiful color of #OBJ#	8
+hasproperty	#SUBJ# carries for #OBJ#	8
+hasproperty	#SUBJ# appears ready for #OBJ#	8
+hasproperty	#SUBJ# soon formed #OBJ#	8
+hasproperty	#SUBJ# gets in on #OBJ#	8
+hasproperty	#SUBJ# is a battle between #OBJ#	8
+hasproperty	#SUBJ# drove in #OBJ#	8
+hasproperty	#SUBJ# has broken out #OBJ#	8
+hasproperty	#SUBJ# are deprived of #OBJ#	8
+hasproperty	#SUBJ# have reported seeing #OBJ#	8
+hasproperty	#SUBJ# reported seeing #OBJ#	8
+hasproperty	#SUBJ# rarely make #OBJ#	7
+hasproperty	#SUBJ# will leave #OBJ#	7
+hasproperty	#SUBJ# was actually a lot of #OBJ#	7
+hasproperty	#SUBJ# contains of #OBJ#	7
+hasproperty	#SUBJ# is more expensive than #OBJ#	7
+hasproperty	#SUBJ# are delivered with #OBJ#	7
+hasproperty	#SUBJ# is critical for #OBJ#	7
+hasproperty	#SUBJ# comes without #OBJ#	7
+hasproperty	#SUBJ# are interested in #OBJ#	7
+hasproperty	#SUBJ# expires on #OBJ#	7
+hasproperty	#SUBJ# have been served at #OBJ#	7
+hasproperty	#SUBJ# is awash with #OBJ#	7
+createdby	#SUBJ# is being treated as #OBJ#	17
+createdby	#SUBJ# are prepared by #OBJ#	17
+createdby	#SUBJ# is the work of #OBJ#	16
+createdby	#SUBJ# is developed by #OBJ#	12
+createdby	#SUBJ# has served #OBJ#	9
+createdby	#SUBJ# is the expression of #OBJ#	9
+createdby	#SUBJ# was classified as #OBJ#	9
+createdby	#SUBJ# is directed by #OBJ#	9
+createdby	#SUBJ# must climb #OBJ#	9
+createdby	#SUBJ# is the religion of #OBJ#	9
+createdby	#SUBJ# is modeled on #OBJ#	9
+createdby	#SUBJ# can be written in #OBJ#	9
+createdby	#SUBJ# expand existing #OBJ#	9
+createdby	#SUBJ# are sent to #OBJ#	9
+createdby	#SUBJ# shows about #OBJ#	9
+createdby	#SUBJ# was formed at #OBJ#	9
+createdby	#SUBJ# is the word of #OBJ#	9
+createdby	#SUBJ# drains from #OBJ#	9
+createdby	#SUBJ# is a product of #OBJ#	9
+createdby	#SUBJ# is an index of #OBJ#	9
+createdby	#SUBJ# is born #OBJ#	8
+createdby	#SUBJ# is a blessing to #OBJ#	8
+createdby	#SUBJ# is such an exciting time for #OBJ#	8
+createdby	#SUBJ# has completed #OBJ#	8
+createdby	#SUBJ# was determined to be #OBJ#	8
+createdby	#SUBJ# was abolished for #OBJ#	8
+createdby	#SUBJ# was ruled as #OBJ#	8
+createdby	#SUBJ# acts on #OBJ#	8
+createdby	#SUBJ# is the public listing of #OBJ#	8
+createdby	#SUBJ# learn to play #OBJ#	8
+createdby	#SUBJ# was played by #OBJ#	8
+createdby	#SUBJ# will be prepared by #OBJ#	8
+createdby	#SUBJ# is the child of #OBJ#	8
+createdby	#SUBJ# has been withdrawn by #OBJ#	8
+createdby	#SUBJ# represents the opinions of #OBJ#	8
+createdby	#SUBJ# is a new operating system from #OBJ#	8
+createdby	#SUBJ# is a reflection of #OBJ#	7
+createdby	#SUBJ# is ruled #OBJ#	7
+createdby	#SUBJ# is the punishment for #OBJ#	7
+createdby	#SUBJ# is a commitment to #OBJ#	7
+createdby	#SUBJ# is an attitude of #OBJ#	7
+createdby	#SUBJ# is beautifully shot by #OBJ#	7
+createdby	#SUBJ# played with #OBJ#	7
+createdby	#SUBJ# will be provided by #OBJ#	7
+createdby	#SUBJ# imposed on #OBJ#	7
+createdby	#SUBJ# is designed to withstand #OBJ#	7
+createdby	#SUBJ# may be a sign of #OBJ#	7
+createdby	#SUBJ# is split into #OBJ#	7
+createdby	#SUBJ# has gone through #OBJ#	7
+createdby	#SUBJ# has emerged from #OBJ#	7
+hassubevent	#SUBJ# was troubled by #OBJ#	8
+hassubevent	#SUBJ# includes most of #OBJ#	7
+hassubevent	#SUBJ# is key to #OBJ#	6
+hassubevent	#SUBJ# allows the user to #OBJ#	6
+hassubevent	#SUBJ# had been troubled by #OBJ#	6
+hassubevent	#SUBJ# did dream #OBJ#	6
+hassubevent	#SUBJ# is invaded nightly by #OBJ#	6
+hassubevent	#SUBJ# grows with #OBJ#	6
+hassubevent	#SUBJ# may take the form of #OBJ#	6
+hassubevent	#SUBJ# will vary depending on #OBJ#	5
+hassubevent	#SUBJ# will depend on #OBJ#	5
+hassubevent	#SUBJ# would be appreciated #OBJ#	5
+hassubevent	#SUBJ# are known to have #OBJ#	4
+hassubevent	#SUBJ# detected in #OBJ#	4
+hassubevent	#SUBJ# talks about #OBJ#	4
+hassubevent	#SUBJ# hapened in #OBJ#	4
+hassubevent	#SUBJ# was interrupted by #OBJ#	4
+hassubevent	#SUBJ# is poisoned by #OBJ#	4
+hassubevent	#SUBJ# was sound with #OBJ#	4
+hassubevent	#SUBJ# is the most common cause of #OBJ#	4
+hassubevent	#SUBJ# be aware of #OBJ#	4
+hassubevent	#SUBJ# is worth #OBJ#	4
+hassubevent	#SUBJ# have been the leading cause of #OBJ#	4
+hassubevent	#SUBJ# rely heavily on #OBJ#	4
+hassubevent	#SUBJ# is usually linked with #OBJ#	4
+hassubevent	#SUBJ# are released after #OBJ#	3
+hassubevent	#SUBJ# lay in #OBJ#	3
+hassubevent	#SUBJ# offers plenty of #OBJ#	3
+hassubevent	#SUBJ# can be capsized in #OBJ#	3
+hassubevent	#SUBJ# could face #OBJ#	3
+hassubevent	#SUBJ# develops with #OBJ#	3
+hassubevent	#SUBJ# result in #OBJ#	2
+hassubevent	#SUBJ# was taken on #OBJ#	2
+hassubevent	#SUBJ# are only available for #OBJ#	2
+hassubevent	#SUBJ# could increase #OBJ#	2
+hassubevent	#SUBJ# is delivered by #OBJ#	2
+hassubevent	#SUBJ# must come from #OBJ#	2
+hassubevent	#SUBJ# improve information on #OBJ#	2
+hassubevent	#SUBJ# is to improve #OBJ#	2
+hassubevent	#SUBJ# is now a rising star in #OBJ#	2
+hassubevent	#SUBJ# will be dwarfed by #OBJ#	2
+hassubevent	#SUBJ# is known at #OBJ#	2
+hassubevent	#SUBJ# are configured at #OBJ#	2
+hassubevent	#SUBJ# may also bring on #OBJ#	2
+hassubevent	#SUBJ# helps in #OBJ#	2
+hassubevent	#SUBJ# generally causes #OBJ#	2
+hassubevent	#SUBJ# are integrally linked to #OBJ#	2
+hassubevent	#SUBJ# is as valuable for #OBJ#	2
+hassubevent	#SUBJ# were the highlight of #OBJ#	2
+hassubevent	#SUBJ# is the finale of #OBJ#	2
+entails	#SUBJ# warms to #OBJ#	8
+entails	#SUBJ# is now deposited with #OBJ#	8
+entails	#SUBJ# can transform #OBJ#	8
+entails	#SUBJ# promises to end #OBJ#	7
+entails	#SUBJ# walks on #OBJ#	7
+entails	#SUBJ# is frequently referred to as #OBJ#	7
+entails	#SUBJ# step by #OBJ#	7
+entails	#SUBJ# dance in #OBJ#	7
+entails	#SUBJ# adjust to #OBJ#	7
+entails	#SUBJ# are also called #OBJ#	6
+entails	#SUBJ# dedicated to #OBJ#	6
+entails	#SUBJ# perform live on #OBJ#	6
+entails	#SUBJ# lined up on #OBJ#	6
+entails	#SUBJ# deals with #OBJ#	6
+entails	#SUBJ# reduce to #OBJ#	6
+entails	#SUBJ# is great for retaining #OBJ#	6
+entails	#SUBJ# will be available via #OBJ#	5
+entails	#SUBJ# walked off #OBJ#	5
+entails	#SUBJ# is to ask #OBJ#	5
+entails	#SUBJ# is a good conductor of #OBJ#	5
+entails	#SUBJ# dumped large amounts of #OBJ#	5
+entails	#SUBJ# was overridden by #OBJ#	5
+entails	#SUBJ# look similar to #OBJ#	4
+entails	#SUBJ# is the premiere resource for #OBJ#	4
+entails	#SUBJ# was interested in creating #OBJ#	4
+entails	#SUBJ# often inspire #OBJ#	4
+entails	#SUBJ# involves a lot of #OBJ#	4
+entails	#SUBJ# dumped a lot of #OBJ#	4
+entails	#SUBJ# are clustered in #OBJ#	4
+entails	#SUBJ# merely consists of #OBJ#	4
+entails	#SUBJ# have designed #OBJ#	3
+entails	#SUBJ# will be accessible by #OBJ#	3
+entails	#SUBJ# can be accessed through #OBJ#	3
+entails	#SUBJ# protect thousands of #OBJ#	3
+entails	#SUBJ# returned during #OBJ#	3
+entails	#SUBJ# are a joy to #OBJ#	3
+entails	#SUBJ# stood on #OBJ#	3
+entails	#SUBJ# had left #OBJ#	3
+entails	#SUBJ# then turn to #OBJ#	3
+entails	#SUBJ# is the publisher of #OBJ#	3
+entails	#SUBJ# uses the weight of #OBJ#	3
+entails	#SUBJ# can find good to #OBJ#	3
+entails	#SUBJ# is coming up #OBJ#	3
+entails	#SUBJ# has disbursed #OBJ#	3
+entails	#SUBJ# will be contacted #OBJ#	3
+entails	#SUBJ# adds further versatility to #OBJ#	3
+entails	#SUBJ# achieved a lot of #OBJ#	3
+entails	#SUBJ# offer a viable alternative to #OBJ#	3
+entails	#SUBJ# means to go back on #OBJ#	3
+entails	#SUBJ# produced a lot of #OBJ#	3
+receivesaction	#SUBJ# are hinged at #OBJ#	10
+receivesaction	#SUBJ# are fitted with #OBJ#	9
+receivesaction	#SUBJ# are accused of #OBJ#	9
+receivesaction	#SUBJ# is infected with #OBJ#	9
+receivesaction	#SUBJ# will be free to #OBJ#	9
+receivesaction	#SUBJ# looks in #OBJ#	8
+receivesaction	#SUBJ# have gotten away with #OBJ#	8
+receivesaction	#SUBJ# means a set of #OBJ#	8
+receivesaction	#SUBJ# shall be filled by #OBJ#	8
+receivesaction	#SUBJ# may be modelled in #OBJ#	8
+receivesaction	#SUBJ# is taken for #OBJ#	8
+receivesaction	#SUBJ# comes up #OBJ#	8
+receivesaction	#SUBJ# produced from #OBJ#	7
+receivesaction	#SUBJ# are the symbols of #OBJ#	7
+receivesaction	#SUBJ# needs a lot of #OBJ#	7
+receivesaction	#SUBJ# slid to #OBJ#	7
+receivesaction	#SUBJ# is the tenth volume in #OBJ#	7
+receivesaction	#SUBJ# heats to #OBJ#	7
+receivesaction	#SUBJ# was parked in #OBJ#	7
+receivesaction	#SUBJ# serve the same purpose of #OBJ#	6
+receivesaction	#SUBJ# are good at giving #OBJ#	6
+receivesaction	#SUBJ# was quickly #OBJ#	6
+receivesaction	#SUBJ# confess to #OBJ#	6
+receivesaction	#SUBJ# is the assemblage of #OBJ#	6
+receivesaction	#SUBJ# regularly engage in #OBJ#	6
+receivesaction	#SUBJ# is fully ready to #OBJ#	6
+receivesaction	#SUBJ# have been stretched to #OBJ#	6
+receivesaction	#SUBJ# is popular for #OBJ#	6
+receivesaction	#SUBJ# sizzled on #OBJ#	6
+receivesaction	#SUBJ# are great on #OBJ#	6
+receivesaction	#SUBJ# have been killed by #OBJ#	6
+receivesaction	#SUBJ# hire through #OBJ#	6
+receivesaction	#SUBJ# pulls out of #OBJ#	6
+receivesaction	#SUBJ# is excerpted from #OBJ#	5
+receivesaction	#SUBJ# try to extinguish #OBJ#	5
+receivesaction	#SUBJ# sets on #OBJ#	5
+receivesaction	#SUBJ# will fall in #OBJ#	5
+receivesaction	#SUBJ# are very protective around #OBJ#	5
+receivesaction	#SUBJ# shall serve as #OBJ#	5
+receivesaction	#SUBJ# had been left #OBJ#	5
+receivesaction	#SUBJ# is the award of #OBJ#	4
+receivesaction	#SUBJ# uses per #OBJ#	4
+receivesaction	#SUBJ# can be known as #OBJ#	4
+receivesaction	#SUBJ# gives hours of #OBJ#	4
+receivesaction	#SUBJ# are left #OBJ#	4
+receivesaction	#SUBJ# provides live backup of #OBJ#	4
+receivesaction	#SUBJ# only looks at #OBJ#	4
+receivesaction	#SUBJ# now provides access to #OBJ#	4
+receivesaction	#SUBJ# was aged in #OBJ#	4
+receivesaction	#SUBJ# is sealed with #OBJ#	4
+locatednear	#SUBJ# pulled up to #OBJ#	8
+locatednear	#SUBJ# is halfway between #OBJ#	8
+locatednear	#SUBJ# was served in #OBJ#	7
+locatednear	#SUBJ# is necessary to cleanse #OBJ#	7
+locatednear	#SUBJ# lie on #OBJ#	7
+locatednear	#SUBJ# is accessed from #OBJ#	6
+locatednear	#SUBJ# locks into #OBJ#	6
+locatednear	#SUBJ# look excellent on #OBJ#	6
+locatednear	#SUBJ# were created in #OBJ#	6
+locatednear	#SUBJ# is a magnetic storm on #OBJ#	6
+locatednear	#SUBJ# are separate from #OBJ#	6
+locatednear	#SUBJ# can be accessed from #OBJ#	5
+locatednear	#SUBJ# is situated between #OBJ#	5
+locatednear	#SUBJ# were building #OBJ#	5
+locatednear	#SUBJ# moves faster than #OBJ#	5
+locatednear	#SUBJ# made its closest approach to #OBJ#	5
+locatednear	#SUBJ# occurs on #OBJ#	5
+locatednear	#SUBJ# are pulled out from #OBJ#	5
+locatednear	#SUBJ# is distributed in #OBJ#	4
+locatednear	#SUBJ# originally came from #OBJ#	4
+locatednear	#SUBJ# is catching up to #OBJ#	4
+locatednear	#SUBJ# comes closer to #OBJ#	4
+locatednear	#SUBJ# arrived on #OBJ#	4
+locatednear	#SUBJ# was generated by #OBJ#	4
+locatednear	#SUBJ# is a characteristic of #OBJ#	4
+locatednear	#SUBJ# are created by #OBJ#	4
+locatednear	#SUBJ# is the most abundant element in #OBJ#	4
+locatednear	#SUBJ# are breeding in #OBJ#	4
+locatednear	#SUBJ# hover over #OBJ#	4
+locatednear	#SUBJ# dribbled from #OBJ#	4
+locatednear	#SUBJ# neutralizes the acid in #OBJ#	4
+locatednear	#SUBJ# is necessary to clean #OBJ#	4
+locatednear	#SUBJ# is a tremendous explosion on #OBJ#	4
+locatednear	#SUBJ# is a violent explosion in #OBJ#	4
+locatednear	#SUBJ# tuck right under #OBJ#	4
+locatednear	#SUBJ# are arranged around #OBJ#	4
+locatednear	#SUBJ# can build #OBJ#	3
+locatednear	#SUBJ# will build #OBJ#	3
+locatednear	#SUBJ# had constructed #OBJ#	3
+locatednear	#SUBJ# also complements #OBJ#	3
+locatednear	#SUBJ# appears to hold #OBJ#	3
+locatednear	#SUBJ# may have come from #OBJ#	3
+locatednear	#SUBJ# begin on #OBJ#	3
+locatednear	#SUBJ# can breed in #OBJ#	3
+locatednear	#SUBJ# stared into #OBJ#	3
+locatednear	#SUBJ# is a fact of #OBJ#	3
+locatednear	#SUBJ# poured from #OBJ#	3
+locatednear	#SUBJ# was tied to #OBJ#	3
+locatednear	#SUBJ# provides scant shelter from #OBJ#	3
+locatednear	#SUBJ# are second only to #OBJ#	2
+relatedto	#SUBJ# is a piece of #OBJ#	22
+relatedto	#SUBJ# is a measure of #OBJ#	20
+relatedto	#SUBJ# grew to #OBJ#	19
+relatedto	#SUBJ# have grown into #OBJ#	19
+relatedto	#SUBJ# are raised for #OBJ#	19
+relatedto	#SUBJ# was supposed to #OBJ#	18
+relatedto	#SUBJ# raised on #OBJ#	18
+relatedto	#SUBJ# is produced by fermenting #OBJ#	18
+relatedto	#SUBJ# is fortified with #OBJ#	18
+relatedto	#SUBJ# is famous with #OBJ#	18
+relatedto	#SUBJ# is fit for #OBJ#	16
+relatedto	#SUBJ# can be divided into #OBJ#	16
+relatedto	#SUBJ# is dream of #OBJ#	16
+relatedto	#SUBJ# is the technical term for #OBJ#	16
+relatedto	#SUBJ# was turned over to #OBJ#	16
+relatedto	#SUBJ# was peeling off of #OBJ#	16
+relatedto	#SUBJ# are adapted from #OBJ#	16
+relatedto	#SUBJ# nominated for #OBJ#	16
+relatedto	#SUBJ# want to buy #OBJ#	16
+relatedto	#SUBJ# will produce #OBJ#	16
+relatedto	#SUBJ# were more like #OBJ#	15
+relatedto	#SUBJ# remain on #OBJ#	15
+relatedto	#SUBJ# are also flattering on #OBJ#	14
+relatedto	#SUBJ# is taken over by #OBJ#	14
+relatedto	#SUBJ# ceased to #OBJ#	14
+relatedto	#SUBJ# is too small for #OBJ#	14
+relatedto	#SUBJ# is shot from #OBJ#	14
+relatedto	#SUBJ# died as #OBJ#	14
+relatedto	#SUBJ# struck out #OBJ#	14
+relatedto	#SUBJ# buy signed copies of #OBJ#	14
+relatedto	#SUBJ# is based upon #OBJ#	13
+relatedto	#SUBJ# was woven into #OBJ#	13
+relatedto	#SUBJ# was defined as #OBJ#	13
+relatedto	#SUBJ# is frozen #OBJ#	13
+relatedto	#SUBJ# is complete without #OBJ#	13
+relatedto	#SUBJ# is officially licensed #OBJ#	13
+relatedto	#SUBJ# took on #OBJ#	13
+relatedto	#SUBJ# are constructed of #OBJ#	12
+relatedto	#SUBJ# puts forth #OBJ#	12
+relatedto	#SUBJ# should start to #OBJ#	12
+relatedto	#SUBJ# is similar nutritionally to #OBJ#	12
+relatedto	#SUBJ# turns from #OBJ#	12
+relatedto	#SUBJ# is used in making #OBJ#	12
+relatedto	#SUBJ# twitched at #OBJ#	12
+relatedto	#SUBJ# cut down #OBJ#	12
+relatedto	#SUBJ# shot from #OBJ#	12
+relatedto	#SUBJ# were adopted from #OBJ#	12
+relatedto	#SUBJ# is the answer to #OBJ#	12
+relatedto	#SUBJ# instantly smothers #OBJ#	12
+relatedto	#SUBJ# just want to start #OBJ#	12
+instanceof	#SUBJ# was incorporated as #OBJ#	10
+instanceof	#SUBJ# is the spanish word for #OBJ#	9
+instanceof	#SUBJ# successfully reintroduced #OBJ#	8
+instanceof	#SUBJ# is the best place to find #OBJ#	6
+instanceof	#SUBJ# is likely one of #OBJ#	6
+instanceof	#SUBJ# only serves #OBJ#	6
+instanceof	#SUBJ# is a neighborhood of #OBJ#	6
+instanceof	#SUBJ# is conveniently located between #OBJ#	5
+instanceof	#SUBJ# was built as #OBJ#	5
+instanceof	#SUBJ# were transcribed from #OBJ#	5
+instanceof	#SUBJ# is the modern version of #OBJ#	5
+instanceof	#SUBJ# is a new kind of #OBJ#	4
+instanceof	#SUBJ# is a simple type of #OBJ#	4
+instanceof	#SUBJ# is second to #OBJ#	4
+instanceof	#SUBJ# now turns #OBJ#	4
+instanceof	#SUBJ# is still exclusive to #OBJ#	4
+instanceof	#SUBJ# continued to be #OBJ#	4
+instanceof	#SUBJ# was awarded #OBJ#	4
+instanceof	#SUBJ# live outside #OBJ#	4
+instanceof	#SUBJ# fly into #OBJ#	4
+instanceof	#SUBJ# are concentrated in #OBJ#	4
+instanceof	#SUBJ# is the lower house of #OBJ#	4
+instanceof	#SUBJ# only works with #OBJ#	4
+instanceof	#SUBJ# was granted #OBJ#	4
+instanceof	#SUBJ# faithfully replicates #OBJ#	4
+instanceof	#SUBJ# was the first county in #OBJ#	4
+instanceof	#SUBJ# is truly #OBJ#	4
+instanceof	#SUBJ# is your front door to #OBJ#	4
+instanceof	#SUBJ# is nicknamed #OBJ#	4
+instanceof	#SUBJ# was introduced under #OBJ#	4
+instanceof	#SUBJ# is the least populated of #OBJ#	4
+instanceof	#SUBJ# is excellent on #OBJ#	4
+instanceof	#SUBJ# was the roman word for #OBJ#	3
+instanceof	#SUBJ# reaches more people than #OBJ#	3
+instanceof	#SUBJ# is the perfect balance of #OBJ#	3
+instanceof	#SUBJ# is well known as #OBJ#	3
+instanceof	#SUBJ# has set the standard for #OBJ#	3
+instanceof	#SUBJ# gives a superb balance to #OBJ#	3
+instanceof	#SUBJ# please check out #OBJ#	3
+instanceof	#SUBJ# has recently been voted #OBJ#	3
+instanceof	#SUBJ# is known for being #OBJ#	3
+instanceof	#SUBJ# is the largest expanse of #OBJ#	3
+instanceof	#SUBJ# was recently named #OBJ#	3
+instanceof	#SUBJ# is considered as being #OBJ#	3
+instanceof	#SUBJ# was bought out by #OBJ#	3
+instanceof	#SUBJ# sharply pointed #OBJ#	3
+instanceof	#SUBJ# is the best-known of #OBJ#	3
+instanceof	#SUBJ# was equal only to #OBJ#	3
+instanceof	#SUBJ# is the birthplace of #OBJ#	3
+instanceof	#SUBJ# are moving to #OBJ#	3
+knownfor	#SUBJ# was the founder of #OBJ#	26
+knownfor	#SUBJ# published his theory of #OBJ#	14
+knownfor	#SUBJ# wrote in #OBJ#	10
+knownfor	#SUBJ# presented his theory of #OBJ#	9
+knownfor	#SUBJ# developed the theory of #OBJ#	8
+knownfor	#SUBJ# laid the foundation of #OBJ#	7
+knownfor	#SUBJ# founded the church of #OBJ#	7
+knownfor	#SUBJ# is the founder of #OBJ#	7
+knownfor	#SUBJ# becomes the first man to reach #OBJ#	7
+knownfor	#SUBJ# had reached #OBJ#	7
+knownfor	#SUBJ# predicted the existence of #OBJ#	6
+knownfor	#SUBJ# was the inventor of #OBJ#	6
+knownfor	#SUBJ# had discovered #OBJ#	6
+knownfor	#SUBJ# also created #OBJ#	6
+knownfor	#SUBJ# first turned #OBJ#	6
+knownfor	#SUBJ# received a german patent for #OBJ#	6
+knownfor	#SUBJ# published a paper on #OBJ#	5
+knownfor	#SUBJ# introduced his theory of #OBJ#	5
+knownfor	#SUBJ# outlined his theory of #OBJ#	5
+knownfor	#SUBJ# developed his theory of #OBJ#	4
+knownfor	#SUBJ# is the author of #OBJ#	4
+knownfor	#SUBJ# proved his theory of #OBJ#	4
+knownfor	#SUBJ# advanced his theory of #OBJ#	4
+knownfor	#SUBJ# found the tomb of #OBJ#	4
+knownfor	#SUBJ# had published #OBJ#	4
+knownfor	#SUBJ# also wrote #OBJ#	4
+knownfor	#SUBJ# was first to reach #OBJ#	4
+knownfor	#SUBJ# got the idea for #OBJ#	4
+knownfor	#SUBJ# proposed his theory of #OBJ#	3
+knownfor	#SUBJ# published his paper on #OBJ#	3
+knownfor	#SUBJ# speaks of #OBJ#	3
+knownfor	#SUBJ# had invented #OBJ#	3
+knownfor	#SUBJ# introduced the concept of #OBJ#	3
+knownfor	#SUBJ# described the structure of #OBJ#	3
+knownfor	#SUBJ# improved the design of #OBJ#	3
+knownfor	#SUBJ# has studied #OBJ#	3
+knownfor	#SUBJ# began studying #OBJ#	3
+knownfor	#SUBJ# explores the world as #OBJ#	3
+knownfor	#SUBJ# commented in #OBJ#	3
+knownfor	#SUBJ# is writing a sequel to #OBJ#	3
+knownfor	#SUBJ# wrote about #OBJ#	2
+knownfor	#SUBJ# produced his theory of #OBJ#	2
+knownfor	#SUBJ# formulated the theory of #OBJ#	2
+knownfor	#SUBJ# was able to explain #OBJ#	2
+knownfor	#SUBJ# envisioned in #OBJ#	2
+knownfor	#SUBJ# creates a world in #OBJ#	2
+knownfor	#SUBJ# outlined in #OBJ#	2
+knownfor	#SUBJ# warned in #OBJ#	2
+knownfor	#SUBJ# was the inspiration for #OBJ#	2
+knownfor	#SUBJ# performed his experiments with #OBJ#	2
+mannerof	#SUBJ# needed to stop #OBJ#	9
+mannerof	#SUBJ# are copyrighted #OBJ#	9
+mannerof	#SUBJ# become agents of #OBJ#	8
+mannerof	#SUBJ# bring about #OBJ#	8
+mannerof	#SUBJ# could lead to #OBJ#	8
+mannerof	#SUBJ# brought home for #OBJ#	8
+mannerof	#SUBJ# is composted for #OBJ#	8
+mannerof	#SUBJ# will be entered into #OBJ#	8
+mannerof	#SUBJ# qualifies as #OBJ#	7
+mannerof	#SUBJ# should replace #OBJ#	7
+mannerof	#SUBJ# has undergone #OBJ#	6
+mannerof	#SUBJ# longer will be #OBJ#	6
+mannerof	#SUBJ# took her in #OBJ#	6
+mannerof	#SUBJ# then click save #OBJ#	6
+mannerof	#SUBJ# give rise to #OBJ#	6
+mannerof	#SUBJ# would be complete without #OBJ#	6
+mannerof	#SUBJ# help with #OBJ#	6
+mannerof	#SUBJ# shall be decided by #OBJ#	6
+mannerof	#SUBJ# cool down #OBJ#	6
+mannerof	#SUBJ# used to provide #OBJ#	6
+mannerof	#SUBJ# even transmit #OBJ#	6
+mannerof	#SUBJ# will be included in #OBJ#	6
+mannerof	#SUBJ# created pursuant to #OBJ#	5
+mannerof	#SUBJ# gave rise to #OBJ#	5
+mannerof	#SUBJ# left off #OBJ#	5
+mannerof	#SUBJ# so grows #OBJ#	5
+mannerof	#SUBJ# were followed by #OBJ#	5
+mannerof	#SUBJ# are always available for #OBJ#	5
+mannerof	#SUBJ# proceed with #OBJ#	5
+mannerof	#SUBJ# were taken at #OBJ#	5
+mannerof	#SUBJ# may be obtained from #OBJ#	5
+mannerof	#SUBJ# bore to #OBJ#	5
+mannerof	#SUBJ# is nt #OBJ#	5
+mannerof	#SUBJ# will begin at #OBJ#	5
+mannerof	#SUBJ# also carries #OBJ#	4
+mannerof	#SUBJ# replaced this system of #OBJ#	4
+mannerof	#SUBJ# are offered by #OBJ#	4
+mannerof	#SUBJ# left left #OBJ#	4
+mannerof	#SUBJ# was taken on #OBJ#	4
+mannerof	#SUBJ# was concluded with #OBJ#	4
+mannerof	#SUBJ# will cover #OBJ#	4
+mannerof	#SUBJ# concluded with #OBJ#	4
+mannerof	#SUBJ# culminated with #OBJ#	4
+mannerof	#SUBJ# is best done at #OBJ#	4
+mannerof	#SUBJ# will proceed at #OBJ#	4
+mannerof	#SUBJ# is the oldest of #OBJ#	4
+mannerof	#SUBJ# stopped being #OBJ#	4
+mannerof	#SUBJ# refused to #OBJ#	4
+mannerof	#SUBJ# is recycled for #OBJ#	4
+mannerof	#SUBJ# was reduced by #OBJ#	4
+antonym	#SUBJ# are happier than #OBJ#	25
+antonym	#SUBJ# start at #OBJ#	18
+antonym	#SUBJ# is black with #OBJ#	18
+antonym	#SUBJ# are converted to #OBJ#	17
+antonym	#SUBJ# put the chicken on #OBJ#	16
+antonym	#SUBJ# is as important as #OBJ#	16
+antonym	#SUBJ# outweigh the needs of #OBJ#	16
+antonym	#SUBJ# put an end to #OBJ#	16
+antonym	#SUBJ# exited at #OBJ#	16
+antonym	#SUBJ# are outweighed by #OBJ#	14
+antonym	#SUBJ# might actually be #OBJ#	14
+antonym	#SUBJ# is a mirror image of #OBJ#	14
+antonym	#SUBJ# hopefully save #OBJ#	14
+antonym	#SUBJ# can turn into #OBJ#	13
+antonym	#SUBJ# grew faster than #OBJ#	12
+antonym	#SUBJ# exceeds the value of #OBJ#	12
+antonym	#SUBJ# is open with #OBJ#	12
+antonym	#SUBJ# will consider #OBJ#	12
+antonym	#SUBJ# is required to achieve #OBJ#	12
+antonym	#SUBJ# are competing for relatively #OBJ#	12
+antonym	#SUBJ# cannot be obtained without #OBJ#	12
+antonym	#SUBJ# should prepare for #OBJ#	12
+antonym	#SUBJ# rise above #OBJ#	12
+antonym	#SUBJ# out weigh #OBJ#	11
+antonym	#SUBJ# is reflected in #OBJ#	11
+antonym	#SUBJ# will be better than #OBJ#	11
+antonym	#SUBJ# may outweigh #OBJ#	10
+antonym	#SUBJ# depends upon #OBJ#	10
+antonym	#SUBJ# put his hands behind #OBJ#	10
+antonym	#SUBJ# work same as for #OBJ#	10
+antonym	#SUBJ# looks as good as #OBJ#	10
+antonym	#SUBJ# always trumps #OBJ#	10
+antonym	#SUBJ# spread over #OBJ#	10
+antonym	#SUBJ# looks better than #OBJ#	10
+antonym	#SUBJ# receives twice as much as #OBJ#	9
+antonym	#SUBJ# was preferable to #OBJ#	9
+antonym	#SUBJ# is a crime against #OBJ#	9
+antonym	#SUBJ# is opposite to #OBJ#	9
+antonym	#SUBJ# found a way to #OBJ#	9
+antonym	#SUBJ# descend into #OBJ#	9
+antonym	#SUBJ# was associated with #OBJ#	9
+antonym	#SUBJ# can mean #OBJ#	9
+antonym	#SUBJ# is a reflection of #OBJ#	9
+antonym	#SUBJ# puts on #OBJ#	9
+antonym	#SUBJ# has its price in #OBJ#	9
+antonym	#SUBJ# compensate for #OBJ#	9
+antonym	#SUBJ# open in #OBJ#	9
+antonym	#SUBJ# is the inverse operation of #OBJ#	9
+antonym	#SUBJ# are affected more than #OBJ#	9
+antonym	#SUBJ# draped over #OBJ#	9
+causes	#SUBJ# is the number one cause of #OBJ#	33
+causes	#SUBJ# increases the risk of #OBJ#	13
+causes	#SUBJ# seemed more like #OBJ#	10
+causes	#SUBJ# are copyrighted #OBJ#	9
+causes	#SUBJ# will become the leading cause of #OBJ#	9
+causes	#SUBJ# improve the quality of #OBJ#	9
+causes	#SUBJ# starve to #OBJ#	9
+causes	#SUBJ# is just a waste of #OBJ#	9
+causes	#SUBJ# is the brother of #OBJ#	9
+causes	#SUBJ# be the culprit in #OBJ#	8
+causes	#SUBJ# has begun on #OBJ#	8
+causes	#SUBJ# ranks fifth in #OBJ#	8
+causes	#SUBJ# fly from #OBJ#	8
+causes	#SUBJ# slowly rise as #OBJ#	8
+causes	#SUBJ# died by #OBJ#	8
+causes	#SUBJ# culminated in #OBJ#	8
+causes	#SUBJ# is the activity of #OBJ#	8
+causes	#SUBJ# is the biggest cause of #OBJ#	8
+causes	#SUBJ# is a risk factor for #OBJ#	8
+causes	#SUBJ# are the main source of #OBJ#	8
+causes	#SUBJ# does cause #OBJ#	8
+causes	#SUBJ# will cause #OBJ#	7
+causes	#SUBJ# brings to #OBJ#	7
+causes	#SUBJ# brings the era to #OBJ#	7
+causes	#SUBJ# increased the risk of #OBJ#	7
+causes	#SUBJ# has culminated in #OBJ#	6
+causes	#SUBJ# is the main cause of #OBJ#	6
+causes	#SUBJ# is sure to evoke #OBJ#	6
+causes	#SUBJ# is a metaphor for #OBJ#	6
+causes	#SUBJ# is punishable by #OBJ#	6
+causes	#SUBJ# have triggered #OBJ#	6
+causes	#SUBJ# is causing #OBJ#	6
+causes	#SUBJ# have led to #OBJ#	6
+causes	#SUBJ# decreases the risk of #OBJ#	6
+causes	#SUBJ# can also increase the risk of #OBJ#	6
+causes	#SUBJ# has been proven to cause #OBJ#	6
+causes	#SUBJ# are committed against #OBJ#	6
+causes	#SUBJ# is unable to cause #OBJ#	5
+causes	#SUBJ# is underway on #OBJ#	5
+causes	#SUBJ# still accounts for #OBJ#	5
+causes	#SUBJ# was synonymous with #OBJ#	5
+causes	#SUBJ# can mean the difference between #OBJ#	5
+causes	#SUBJ# has ignited #OBJ#	5
+causes	#SUBJ# is highly associated with #OBJ#	5
+causes	#SUBJ# have thoughts of #OBJ#	5
+causes	#SUBJ# had weapons of #OBJ#	5
+causes	#SUBJ# is the acquisition of #OBJ#	5
+causes	#SUBJ# preceded her in #OBJ#	5
+causes	#SUBJ# caused up to #OBJ#	5
+causes	#SUBJ# is used to justify #OBJ#	5
+partof	#SUBJ# is a city in #OBJ#	43
+partof	#SUBJ# seceded from #OBJ#	25
+partof	#SUBJ# is the gateway to #OBJ#	24
+partof	#SUBJ# became the capital of #OBJ#	23
+partof	#SUBJ# is the first jurisdiction in #OBJ#	21
+partof	#SUBJ# is the largest city in #OBJ#	20
+partof	#SUBJ# is the second largest city in #OBJ#	20
+partof	#SUBJ# is the first day of #OBJ#	18
+partof	#SUBJ# are arranged in #OBJ#	17
+partof	#SUBJ# are correct for #OBJ#	16
+partof	#SUBJ# lifts for #OBJ#	16
+partof	#SUBJ# came on #OBJ#	15
+partof	#SUBJ# is the most important part of #OBJ#	15
+partof	#SUBJ# was called to #OBJ#	13
+partof	#SUBJ# can occur on #OBJ#	12
+partof	#SUBJ# help maintain #OBJ#	12
+partof	#SUBJ# is the oldest city in #OBJ#	12
+partof	#SUBJ# joined the council of #OBJ#	11
+partof	#SUBJ# was installed in #OBJ#	11
+partof	#SUBJ# became the first province in #OBJ#	11
+partof	#SUBJ# is a painful condition of #OBJ#	10
+partof	#SUBJ# is the fourth largest city in #OBJ#	10
+partof	#SUBJ# is a country located in #OBJ#	10
+partof	#SUBJ# ran aground in #OBJ#	10
+partof	#SUBJ# was the political capital of #OBJ#	10
+partof	#SUBJ# falls in #OBJ#	9
+partof	#SUBJ# is a state in #OBJ#	9
+partof	#SUBJ# is the governing body of #OBJ#	9
+partof	#SUBJ# is stamped into #OBJ#	9
+partof	#SUBJ# starts early #OBJ#	9
+partof	#SUBJ# has been occupied by #OBJ#	9
+partof	#SUBJ# marks the beginning of #OBJ#	9
+partof	#SUBJ# extends into #OBJ#	9
+partof	#SUBJ# connects to #OBJ#	9
+partof	#SUBJ# comes first in #OBJ#	9
+partof	#SUBJ# are arranged within #OBJ#	9
+partof	#SUBJ# offset in #OBJ#	9
+partof	#SUBJ# are the foundation for #OBJ#	9
+partof	#SUBJ# move away from #OBJ#	9
+partof	#SUBJ# is the control center for #OBJ#	9
+partof	#SUBJ# can irritate #OBJ#	9
+partof	#SUBJ# are ejected from #OBJ#	9
+partof	#SUBJ# will be reinstated in #OBJ#	9
+partof	#SUBJ# is peeled off #OBJ#	9
+partof	#SUBJ# is worth the cost of #OBJ#	9
+partof	#SUBJ# was considered the center of #OBJ#	9
+partof	#SUBJ# was the only place in #OBJ#	9
+partof	#SUBJ# are the largest objects in #OBJ#	9
+partof	#SUBJ# can occur anywhere on #OBJ#	8
+partof	#SUBJ# connect to #OBJ#	8
+causesdesire	#SUBJ# stand out above #OBJ#	12
+causesdesire	#SUBJ# stands above #OBJ#	12
+causesdesire	#SUBJ# continued for #OBJ#	10
+causesdesire	#SUBJ# cut out for #OBJ#	8
+causesdesire	#SUBJ# should be sealed off from #OBJ#	8
+causesdesire	#SUBJ# is a big part of #OBJ#	8
+causesdesire	#SUBJ# is relative to #OBJ#	7
+causesdesire	#SUBJ# kept everyone on #OBJ#	7
+causesdesire	#SUBJ# may induce #OBJ#	6
+causesdesire	#SUBJ# played at #OBJ#	6
+causesdesire	#SUBJ# grows with #OBJ#	6
+causesdesire	#SUBJ# everyone</span>, <span class="title-string">was #OBJ#	5
+causesdesire	#SUBJ# lady q</span>, <span class="title-string">let #OBJ#	5
+causesdesire	#SUBJ# is all about enjoying #OBJ#	4
+causesdesire	#SUBJ# girls</span>, <span class="title-string">just want to #OBJ#	4
+causesdesire	#SUBJ# will produce #OBJ#	4
+causesdesire	#SUBJ# is played between #OBJ#	4
+causesdesire	#SUBJ# are performed consecutively without #OBJ#	4
+causesdesire	#SUBJ# must be balanced with #OBJ#	4
+causesdesire	#SUBJ# was originally created at #OBJ#	4
+causesdesire	#SUBJ# always fills #OBJ#	4
+causesdesire	#SUBJ# some people</span>, <span class="title-string">interconnected on #OBJ#	3
+causesdesire	#SUBJ# blogher contributing editor</span>, <span class="title-string">also blogs at #OBJ#	3
+causesdesire	#SUBJ# 2011</span>, <span class="title-string">is filed under #OBJ#	3
+causesdesire	#SUBJ# the musicians</span>, <span class="title-string">were #OBJ#	3
+causesdesire	#SUBJ# someone</span>, <span class="title-string">likes to #OBJ#	3
+causesdesire	#SUBJ# jellypress</span>, <span class="title-string">is about #OBJ#	3
+causesdesire	#SUBJ# the best i</span>, <span class="title-string">could ask for #OBJ#	3
+causesdesire	#SUBJ# a very nice girl</span>, <span class="title-string">likes to #OBJ#	3
+causesdesire	#SUBJ# time</span>, <span class="title-string">flies while #OBJ#	3
+causesdesire	#SUBJ# the small stuff</span>, <span class="title-string">was voted one of #OBJ#	3
+causesdesire	#SUBJ# is just perfect for #OBJ#	3
+causesdesire	#SUBJ# seeks experienced #OBJ#	3
+causesdesire	#SUBJ# will overcome #OBJ#	3
+causesdesire	#SUBJ# helps in #OBJ#	3
+causesdesire	#SUBJ# can disturb #OBJ#	3
+causesdesire	#SUBJ# may be reversed by #OBJ#	3
+causesdesire	#SUBJ# develops with #OBJ#	3
+causesdesire	#SUBJ# is lack of #OBJ#	2
+causesdesire	#SUBJ# vote with #OBJ#	2
+causesdesire	#SUBJ# dont come here primarily to #OBJ#	2
+causesdesire	#SUBJ# occurs is called #OBJ#	2
+causesdesire	#SUBJ# were breaking into #OBJ#	2
+causesdesire	#SUBJ# life</span>, <span class="title-string">is for living #OBJ#	2
+causesdesire	#SUBJ# the book</span>, <span class="title-string">has become #OBJ#	2
+causesdesire	#SUBJ# the qur</span>, <span class="title-string">'an is #OBJ#	2
+causesdesire	#SUBJ# this book</span>, <span class="title-string">is #OBJ#	2
+causesdesire	#SUBJ# jurassic park</span>, <span class="title-string">is #OBJ#	2
+causesdesire	#SUBJ# december</span>, <span class="title-string">let #OBJ#	2
+causesdesire	#SUBJ# this years</span>, <span class="title-string">go #OBJ#	2
+hasa	#SUBJ# should always be placed in #OBJ#	21
+hasa	#SUBJ# had broken #OBJ#	19
+hasa	#SUBJ# are required to wear #OBJ#	18
+hasa	#SUBJ# met behind #OBJ#	18
+hasa	#SUBJ# has shut #OBJ#	18
+hasa	#SUBJ# is blown to #OBJ#	18
+hasa	#SUBJ# is loaded with #OBJ#	17
+hasa	#SUBJ# have gone through #OBJ#	16
+hasa	#SUBJ# is missing part of #OBJ#	16
+hasa	#SUBJ# is capped by #OBJ#	16
+hasa	#SUBJ# flies with #OBJ#	16
+hasa	#SUBJ# leaned out #OBJ#	16
+hasa	#SUBJ# ran out #OBJ#	15
+hasa	#SUBJ# withered to #OBJ#	14
+hasa	#SUBJ# withered from #OBJ#	14
+hasa	#SUBJ# spread out #OBJ#	14
+hasa	#SUBJ# steeply pitched #OBJ#	14
+hasa	#SUBJ# look out #OBJ#	14
+hasa	#SUBJ# leads directly into #OBJ#	14
+hasa	#SUBJ# pulled up by #OBJ#	12
+hasa	#SUBJ# is currently on #OBJ#	12
+hasa	#SUBJ# contains a lot of #OBJ#	12
+hasa	#SUBJ# may lose #OBJ#	11
+hasa	#SUBJ# withdrew into #OBJ#	10
+hasa	#SUBJ# cannot change #OBJ#	10
+hasa	#SUBJ# also received #OBJ#	10
+hasa	#SUBJ# are allergic to #OBJ#	10
+hasa	#SUBJ# set including #OBJ#	10
+hasa	#SUBJ# use to #OBJ#	10
+hasa	#SUBJ# were torn up by #OBJ#	9
+hasa	#SUBJ# were fulfilled to #OBJ#	9
+hasa	#SUBJ# are combinations of #OBJ#	9
+hasa	#SUBJ# has their own way to show #OBJ#	9
+hasa	#SUBJ# often have added #OBJ#	9
+hasa	#SUBJ# has more than tripled in #OBJ#	9
+hasa	#SUBJ# have 2 to #OBJ#	9
+hasa	#SUBJ# have 3 to #OBJ#	9
+hasa	#SUBJ# now have broadband #OBJ#	9
+hasa	#SUBJ# fastens with #OBJ#	9
+hasa	#SUBJ# will lose #OBJ#	9
+hasa	#SUBJ# is a good source of #OBJ#	9
+hasa	#SUBJ# was fed by #OBJ#	9
+hasa	#SUBJ# stare at #OBJ#	9
+hasa	#SUBJ# put america on #OBJ#	9
+hasa	#SUBJ# are trying to build #OBJ#	9
+hasa	#SUBJ# had called #OBJ#	9
+hasa	#SUBJ# have skeletons made of #OBJ#	9
+hasa	#SUBJ# is also available with #OBJ#	9
+hasa	#SUBJ# says on #OBJ#	9
+hasa	#SUBJ# experience a range of #OBJ#	9
+formof	#SUBJ# recovered by #OBJ#	33
+formof	#SUBJ# modeled on #OBJ#	9
+formof	#SUBJ# spend a fortune on #OBJ#	9
+formof	#SUBJ# lists hundreds of #OBJ#	9
+formof	#SUBJ# would pay #OBJ#	9
+formof	#SUBJ# is a 9 to #OBJ#	9
+formof	#SUBJ# involves placing #OBJ#	9
+formof	#SUBJ# won the battle of #OBJ#	9
+formof	#SUBJ# must stay on #OBJ#	9
+formof	#SUBJ# must remain on #OBJ#	9
+formof	#SUBJ# is opposed by #OBJ#	9
+formof	#SUBJ# was stored in #OBJ#	9
+formof	#SUBJ# do echo #OBJ#	9
+formof	#SUBJ# are more versatile than #OBJ#	9
+formof	#SUBJ# abroad / #OBJ#	8
+formof	#SUBJ# u n #OBJ#	8
+formof	#SUBJ# is dispensable for #OBJ#	8
+formof	#SUBJ# proposed purchase of #OBJ#	8
+formof	#SUBJ# is abrogated by #OBJ#	8
+formof	#SUBJ# will be promoted to #OBJ#	8
+formof	#SUBJ# is a follow-up to #OBJ#	8
+formof	#SUBJ# has the best selection of #OBJ#	8
+formof	#SUBJ# is milled from #OBJ#	8
+formof	#SUBJ# offers a selection of #OBJ#	8
+formof	#SUBJ# see price in #OBJ#	8
+formof	#SUBJ# must be enabled to use #OBJ#	8
+formof	#SUBJ# agrees to hold #OBJ#	8
+formof	#SUBJ# stopped making #OBJ#	8
+formof	#SUBJ# wants to buy #OBJ#	7
+formof	#SUBJ# n d #OBJ#	7
+formof	#SUBJ# is affiliated to #OBJ#	7
+formof	#SUBJ# has been appointed #OBJ#	7
+formof	#SUBJ# was appointed #OBJ#	7
+formof	#SUBJ# have access to #OBJ#	7
+formof	#SUBJ# should replace #OBJ#	7
+formof	#SUBJ# wrapped with #OBJ#	7
+formof	#SUBJ# has arrived from #OBJ#	7
+formof	#SUBJ# have been added to #OBJ#	7
+formof	#SUBJ# is a liver disease caused by #OBJ#	7
+formof	#SUBJ# is an accumulation of #OBJ#	7
+formof	#SUBJ# please subscribe to #OBJ#	7
+formof	#SUBJ# has been run by #OBJ#	7
+formof	#SUBJ# is showing up to see #OBJ#	7
+formof	#SUBJ# sprinkled on #OBJ#	6
+formof	#SUBJ# include minutes of #OBJ#	6
+formof	#SUBJ# was managed by #OBJ#	6
+formof	#SUBJ# are operated under #OBJ#	6
+formof	#SUBJ# experience the best of #OBJ#	6
+formof	#SUBJ# shall become first #OBJ#	6
+formof	#SUBJ# will be written right on #OBJ#	6
+usedfor	#SUBJ# will provide hours of #OBJ#	18
+usedfor	#SUBJ# shall be protected as #OBJ#	18
+usedfor	#SUBJ# is prized for #OBJ#	16
+usedfor	#SUBJ# do the majority of #OBJ#	14
+usedfor	#SUBJ# seems to enjoy #OBJ#	12
+usedfor	#SUBJ# is a great place for #OBJ#	11
+usedfor	#SUBJ# is a place of #OBJ#	10
+usedfor	#SUBJ# has been a place of #OBJ#	10
+usedfor	#SUBJ# was supposed to #OBJ#	9
+usedfor	#SUBJ# is a time for #OBJ#	9
+usedfor	#SUBJ# is supposed to be about #OBJ#	9
+usedfor	#SUBJ# was as warm as #OBJ#	9
+usedfor	#SUBJ# kept on #OBJ#	9
+usedfor	#SUBJ# opened for #OBJ#	9
+usedfor	#SUBJ# were filled with #OBJ#	9
+usedfor	#SUBJ# use to #OBJ#	9
+usedfor	#SUBJ# is a great source for #OBJ#	9
+usedfor	#SUBJ# are equally developed can #OBJ#	8
+usedfor	#SUBJ# offers hours of #OBJ#	8
+usedfor	#SUBJ# was thicker than #OBJ#	8
+usedfor	#SUBJ# is planted as #OBJ#	8
+usedfor	#SUBJ# felt like #OBJ#	8
+usedfor	#SUBJ# evaporated from #OBJ#	8
+usedfor	#SUBJ# has a fireplace in #OBJ#	8
+usedfor	#SUBJ# was safer than #OBJ#	8
+usedfor	#SUBJ# is the activity of #OBJ#	8
+usedfor	#SUBJ# have transformed #OBJ#	8
+usedfor	#SUBJ# will light #OBJ#	8
+usedfor	#SUBJ# is the best place to #OBJ#	7
+usedfor	#SUBJ# ceased to #OBJ#	7
+usedfor	#SUBJ# were the worse for #OBJ#	7
+usedfor	#SUBJ# steps forward into #OBJ#	7
+usedfor	#SUBJ# needs a lot of #OBJ#	7
+usedfor	#SUBJ# are made purely for #OBJ#	7
+usedfor	#SUBJ# tells more than #OBJ#	7
+usedfor	#SUBJ# stopped at #OBJ#	7
+usedfor	#SUBJ# are protected under #OBJ#	7
+usedfor	#SUBJ# is ready to set #OBJ#	7
+usedfor	#SUBJ# changed the day of #OBJ#	7
+usedfor	#SUBJ# stop kids from #OBJ#	7
+usedfor	#SUBJ# is removable in #OBJ#	7
+usedfor	#SUBJ# was swamped with #OBJ#	7
+usedfor	#SUBJ# believed to have been used in #OBJ#	7
+usedfor	#SUBJ# is provided for #OBJ#	7
+usedfor	#SUBJ# will finish #OBJ#	7
+usedfor	#SUBJ# was the center of #OBJ#	7
+usedfor	#SUBJ# are sore from #OBJ#	7
+usedfor	#SUBJ# is a mode of #OBJ#	7
+usedfor	#SUBJ# means of #OBJ#	7
+usedfor	#SUBJ# is the best place to #OBJ#	7
+notdesires	#SUBJ# has a history of #OBJ#	23
+notdesires	#SUBJ# may experience #OBJ#	19
+notdesires	#SUBJ# has been the victim of #OBJ#	18
+notdesires	#SUBJ# is experiencing #OBJ#	16
+notdesires	#SUBJ# has been diagnosed with #OBJ#	16
+notdesires	#SUBJ# is convicted of #OBJ#	14
+notdesires	#SUBJ# suspected of #OBJ#	14
+notdesires	#SUBJ# wrongly accused of #OBJ#	14
+notdesires	#SUBJ# has suffered from #OBJ#	12
+notdesires	#SUBJ# knowingly makes a false report of #OBJ#	12
+notdesires	#SUBJ# commits the crime of #OBJ#	11
+notdesires	#SUBJ# deals with #OBJ#	11
+notdesires	#SUBJ# is diagnosed with #OBJ#	10
+notdesires	#SUBJ# will be assigned #OBJ#	10
+notdesires	#SUBJ# shall be responsible for #OBJ#	10
+notdesires	#SUBJ# has committed #OBJ#	10
+notdesires	#SUBJ# is infected with #OBJ#	9
+notdesires	#SUBJ# is arrested for #OBJ#	9
+notdesires	#SUBJ# can transmit #OBJ#	9
+notdesires	#SUBJ# are gonna #OBJ#	9
+notdesires	#SUBJ# bring about #OBJ#	9
+notdesires	#SUBJ# can be a catalyst for #OBJ#	9
+notdesires	#SUBJ# violates the provisions of #OBJ#	9
+notdesires	#SUBJ# be denied the equal protection of #OBJ#	9
+notdesires	#SUBJ# is affected in #OBJ#	9
+notdesires	#SUBJ# is going to have #OBJ#	9
+notdesires	#SUBJ# spans a significant number of #OBJ#	9
+notdesires	#SUBJ# has a monopoly on #OBJ#	9
+notdesires	#SUBJ# walks into #OBJ#	8
+notdesires	#SUBJ# is assessed #OBJ#	8
+notdesires	#SUBJ# is living with #OBJ#	8
+notdesires	#SUBJ# becomes infected with #OBJ#	8
+notdesires	#SUBJ# can create #OBJ#	8
+notdesires	#SUBJ# can become infected with #OBJ#	8
+notdesires	#SUBJ# recently infected with #OBJ#	8
+notdesires	#SUBJ# shall be punished by #OBJ#	8
+notdesires	#SUBJ# shall be sentenced to #OBJ#	8
+notdesires	#SUBJ# violates any provision of #OBJ#	8
+notdesires	#SUBJ# is licensed to practice #OBJ#	8
+notdesires	#SUBJ# is ethically opposed to #OBJ#	8
+notdesires	#SUBJ# reacts differently to #OBJ#	8
+notdesires	#SUBJ# is recovering from #OBJ#	7
+notdesires	#SUBJ# can be infected with #OBJ#	7
+notdesires	#SUBJ# found guilty of #OBJ#	7
+notdesires	#SUBJ# has been exposed to #OBJ#	7
+notdesires	#SUBJ# is slow to #OBJ#	7
+notdesires	#SUBJ# may be notified of #OBJ#	7
+notdesires	#SUBJ# files for #OBJ#	7
+notdesires	#SUBJ# is sick with #OBJ#	7
+notdesires	#SUBJ# is different with #OBJ#	7
+capital	#SUBJ# will be held in #OBJ#	21
+capital	#SUBJ# are based in #OBJ#	21
+capital	#SUBJ# gathered in #OBJ#	17
+capital	#SUBJ# was established in #OBJ#	15
+capital	#SUBJ# headquartered in #OBJ#	14
+capital	#SUBJ# flies from #OBJ#	14
+capital	#SUBJ# begins in #OBJ#	14
+capital	#SUBJ# told reporters in #OBJ#	13
+capital	#SUBJ# grew up in #OBJ#	13
+capital	#SUBJ# flies to #OBJ#	10
+capital	#SUBJ# has arrived in #OBJ#	9
+capital	#SUBJ# are meeting in #OBJ#	9
+capital	#SUBJ# signed the treaty of #OBJ#	9
+capital	#SUBJ# was spent in #OBJ#	9
+capital	#SUBJ# took control of #OBJ#	9
+capital	#SUBJ# declared independence from #OBJ#	9
+capital	#SUBJ# open in #OBJ#	8
+capital	#SUBJ# was founded in #OBJ#	8
+capital	#SUBJ# signed in #OBJ#	8
+capital	#SUBJ# are listed by #OBJ#	7
+capital	#SUBJ# called on #OBJ#	7
+capital	#SUBJ# flies via #OBJ#	7
+capital	#SUBJ# flies daily from #OBJ#	7
+capital	#SUBJ# was signed in #OBJ#	7
+capital	#SUBJ# hit the streets of #OBJ#	7
+capital	#SUBJ# held an event in #OBJ#	6
+capital	#SUBJ# is a beautiful first-ring suburb of #OBJ#	6
+capital	#SUBJ# is just south of #OBJ#	6
+capital	#SUBJ# were held in #OBJ#	6
+capital	#SUBJ# has accused #OBJ#	6
+capital	#SUBJ# opened an embassy in #OBJ#	5
+capital	#SUBJ# told a news conference in #OBJ#	5
+capital	#SUBJ# centered in #OBJ#	5
+capital	#SUBJ# presented by #OBJ#	5
+capital	#SUBJ# hosted the summer olympics in #OBJ#	5
+capital	#SUBJ# have arrived in #OBJ#	5
+capital	#SUBJ# escorts in #OBJ#	5
+capital	#SUBJ# operates daily flights from #OBJ#	5
+capital	#SUBJ# learn spanish in #OBJ#	4
+capital	#SUBJ# now live in #OBJ#	4
+capital	#SUBJ# is proclaimed in #OBJ#	4
+capital	#SUBJ# will meet in #OBJ#	4
+capital	#SUBJ# arrive at #OBJ#	4
+capital	#SUBJ# crashed outside #OBJ#	4
+capital	#SUBJ# is located just north of #OBJ#	4
+capital	#SUBJ# are located at #OBJ#	4
+capital	#SUBJ# signed an agreement in #OBJ#	4
+capital	#SUBJ# is located just west of #OBJ#	4
+capital	#SUBJ# start in #OBJ#	4
+capital	#SUBJ# currently lives in #OBJ#	4
+desires	#SUBJ# is interested in #OBJ#	22
+desires	#SUBJ# puts on #OBJ#	21
+desires	#SUBJ# has the right to #OBJ#	15
+desires	#SUBJ# is judged by #OBJ#	15
+desires	#SUBJ# explore the site in #OBJ#	14
+desires	#SUBJ# save up to #OBJ#	12
+desires	#SUBJ# came for #OBJ#	12
+desires	#SUBJ# shall have the right to #OBJ#	11
+desires	#SUBJ# eats a lot of #OBJ#	10
+desires	#SUBJ# asks for #OBJ#	10
+desires	#SUBJ# participated in #OBJ#	10
+desires	#SUBJ# is given the gift of #OBJ#	10
+desires	#SUBJ# is bitten by #OBJ#	9
+desires	#SUBJ# is addicted to #OBJ#	9
+desires	#SUBJ# check here for #OBJ#	9
+desires	#SUBJ# has attention to #OBJ#	9
+desires	#SUBJ# should be a graduate with #OBJ#	9
+desires	#SUBJ# learns from #OBJ#	9
+desires	#SUBJ# is charged with driving under #OBJ#	9
+desires	#SUBJ# play with #OBJ#	9
+desires	#SUBJ# play on #OBJ#	9
+desires	#SUBJ# shall be deprived of #OBJ#	9
+desires	#SUBJ# break into #OBJ#	9
+desires	#SUBJ# addressed the board in #OBJ#	8
+desires	#SUBJ# is taken by #OBJ#	8
+desires	#SUBJ# holds to #OBJ#	8
+desires	#SUBJ# has its own set of #OBJ#	8
+desires	#SUBJ# is engaged in #OBJ#	8
+desires	#SUBJ# brought this to #OBJ#	8
+desires	#SUBJ# stop absorbing #OBJ#	8
+desires	#SUBJ# have their own set of #OBJ#	8
+desires	#SUBJ# must wash #OBJ#	8
+desires	#SUBJ# were given #OBJ#	8
+desires	#SUBJ# is hired by #OBJ#	8
+desires	#SUBJ# has earned the love of #OBJ#	8
+desires	#SUBJ# sells more than #OBJ#	8
+desires	#SUBJ# has notice of #OBJ#	8
+desires	#SUBJ# came to for #OBJ#	8
+desires	#SUBJ# will be brought to #OBJ#	8
+desires	#SUBJ# ever lived #OBJ#	8
+desires	#SUBJ# is created to #OBJ#	8
+desires	#SUBJ# enjoy hours of #OBJ#	8
+desires	#SUBJ# are entitled to #OBJ#	8
+desires	#SUBJ# relates to #OBJ#	8
+desires	#SUBJ# has been bitten by #OBJ#	7
+desires	#SUBJ# is recovering from #OBJ#	7
+desires	#SUBJ# will be responsible for #OBJ#	7
+desires	#SUBJ# offer to sell #OBJ#	7
+desires	#SUBJ# stops using #OBJ#	7
+desires	#SUBJ# slipped into #OBJ#	7
+product	#SUBJ# is a global leader in #OBJ#	13
+product	#SUBJ# rolled out #OBJ#	9
+product	#SUBJ# were intended as #OBJ#	9
+product	#SUBJ# back design with #OBJ#	9
+product	#SUBJ# has updated #OBJ#	8
+product	#SUBJ# does nt sell #OBJ#	8
+product	#SUBJ# is pushing beyond #OBJ#	8
+product	#SUBJ# have been named #OBJ#	7
+product	#SUBJ# has the soul of #OBJ#	7
+product	#SUBJ# has unveiled #OBJ#	7
+product	#SUBJ# have announced #OBJ#	6
+product	#SUBJ# are primarily #OBJ#	6
+product	#SUBJ# has rolled out #OBJ#	6
+product	#SUBJ# has launched #OBJ#	6
+product	#SUBJ# recently released #OBJ#	6
+product	#SUBJ# began selling #OBJ#	6
+product	#SUBJ# are disappearing from #OBJ#	6
+product	#SUBJ# started manufacturing #OBJ#	6
+product	#SUBJ# is the largest retailer of #OBJ#	5
+product	#SUBJ# certified used #OBJ#	5
+product	#SUBJ# is the world is largest manufacturer of #OBJ#	5
+product	#SUBJ# announced its acquisition of #OBJ#	5
+product	#SUBJ# will connect #OBJ#	5
+product	#SUBJ# are installed in #OBJ#	5
+product	#SUBJ# is the safest place in #OBJ#	5
+product	#SUBJ# is the worlds largest producer of #OBJ#	5
+product	#SUBJ# soon became #OBJ#	4
+product	#SUBJ# will release #OBJ#	4
+product	#SUBJ# is the commercial sponsor of #OBJ#	4
+product	#SUBJ# finally has #OBJ#	4
+product	#SUBJ# offers a large selection of #OBJ#	4
+product	#SUBJ# pre owned #OBJ#	4
+product	#SUBJ# test drive #OBJ#	4
+product	#SUBJ# began shipping #OBJ#	4
+product	#SUBJ# has virtualized #OBJ#	4
+product	#SUBJ# is included with #OBJ#	4
+product	#SUBJ# has shaken up #OBJ#	4
+product	#SUBJ# still rule #OBJ#	4
+product	#SUBJ# began manufacturing #OBJ#	4
+product	#SUBJ# are experts in #OBJ#	4
+product	#SUBJ# are making #OBJ#	4
+product	#SUBJ# get a great deal on #OBJ#	4
+product	#SUBJ# also produces #OBJ#	4
+product	#SUBJ# also introduced #OBJ#	4
+product	#SUBJ# would pay out #OBJ#	4
+product	#SUBJ# is supplying #OBJ#	4
+product	#SUBJ# was established around #OBJ#	4
+product	#SUBJ# has been making #OBJ#	4
+product	#SUBJ# was thrown from #OBJ#	4
+product	#SUBJ# are fitted in #OBJ#	4
+atlocation	#SUBJ# stays in #OBJ#	32
+atlocation	#SUBJ# was stolen from #OBJ#	29
+atlocation	#SUBJ# are allowed in #OBJ#	28
+atlocation	#SUBJ# can be kept in #OBJ#	25
+atlocation	#SUBJ# were installed in #OBJ#	23
+atlocation	#SUBJ# poured into #OBJ#	22
+atlocation	#SUBJ# rose into #OBJ#	22
+atlocation	#SUBJ# kept in #OBJ#	21
+atlocation	#SUBJ# appeared in #OBJ#	20
+atlocation	#SUBJ# are chained to #OBJ#	20
+atlocation	#SUBJ# were removed from #OBJ#	19
+atlocation	#SUBJ# dies in #OBJ#	18
+atlocation	#SUBJ# stopped on #OBJ#	17
+atlocation	#SUBJ# are kept in #OBJ#	17
+atlocation	#SUBJ# is moving through #OBJ#	17
+atlocation	#SUBJ# were born at #OBJ#	16
+atlocation	#SUBJ# arrive at #OBJ#	16
+atlocation	#SUBJ# died on #OBJ#	16
+atlocation	#SUBJ# was left in #OBJ#	16
+atlocation	#SUBJ# was committed to #OBJ#	16
+atlocation	#SUBJ# can be stored in #OBJ#	15
+atlocation	#SUBJ# come out of #OBJ#	14
+atlocation	#SUBJ# soar in #OBJ#	14
+atlocation	#SUBJ# gets to #OBJ#	14
+atlocation	#SUBJ# were found in #OBJ#	14
+atlocation	#SUBJ# have been released from #OBJ#	14
+atlocation	#SUBJ# curled up on #OBJ#	14
+atlocation	#SUBJ# are caught in #OBJ#	14
+atlocation	#SUBJ# should be stored in #OBJ#	14
+atlocation	#SUBJ# is taken out of #OBJ#	14
+atlocation	#SUBJ# was built in #OBJ#	14
+atlocation	#SUBJ# broke on #OBJ#	13
+atlocation	#SUBJ# will be placed in #OBJ#	13
+atlocation	#SUBJ# is mounted to #OBJ#	13
+atlocation	#SUBJ# flows down #OBJ#	13
+atlocation	#SUBJ# were the size of #OBJ#	13
+atlocation	#SUBJ# has been added to #OBJ#	13
+atlocation	#SUBJ# rang at #OBJ#	12
+atlocation	#SUBJ# served at #OBJ#	12
+atlocation	#SUBJ# had broken down on #OBJ#	12
+atlocation	#SUBJ# are held at #OBJ#	12
+atlocation	#SUBJ# disappears into #OBJ#	12
+atlocation	#SUBJ# was held at #OBJ#	12
+atlocation	#SUBJ# is distributed to #OBJ#	12
+atlocation	#SUBJ# first entered #OBJ#	12
+atlocation	#SUBJ# protruded from #OBJ#	12
+atlocation	#SUBJ# present in #OBJ#	12
+atlocation	#SUBJ# have erupted into #OBJ#	12
+atlocation	#SUBJ# pulled from #OBJ#	11
+atlocation	#SUBJ# originated in #OBJ#	11
+isa	#SUBJ# was admitted as #OBJ#	66
+isa	#SUBJ# continues to be #OBJ#	49
+isa	#SUBJ# are located throughout #OBJ#	42
+isa	#SUBJ# is an example of #OBJ#	41
+isa	#SUBJ# is unique among #OBJ#	30
+isa	#SUBJ# may take place in #OBJ#	28
+isa	#SUBJ# is nicknamed #OBJ#	26
+isa	#SUBJ# compares to #OBJ#	25
+isa	#SUBJ# was incorporated as #OBJ#	23
+isa	#SUBJ# is often considered #OBJ#	21
+isa	#SUBJ# are the favored materials for #OBJ#	18
+isa	#SUBJ# is a city in #OBJ#	17
+isa	#SUBJ# is the kind of #OBJ#	16
+isa	#SUBJ# is often referred to as #OBJ#	15
+isa	#SUBJ# is the largest city in #OBJ#	14
+isa	#SUBJ# entered the union as #OBJ#	14
+isa	#SUBJ# has policies in #OBJ#	13
+isa	#SUBJ# was selected as #OBJ#	13
+isa	#SUBJ# are opposites on #OBJ#	13
+isa	#SUBJ# is often called #OBJ#	13
+isa	#SUBJ# has emerged as #OBJ#	12
+isa	#SUBJ# was chosen as #OBJ#	12
+isa	#SUBJ# was adopted as #OBJ#	12
+isa	#SUBJ# sounds of #OBJ#	12
+isa	#SUBJ# is spoken as #OBJ#	12
+isa	#SUBJ# are offered as #OBJ#	12
+isa	#SUBJ# are complimentary colors on #OBJ#	12
+isa	#SUBJ# compares with #OBJ#	11
+isa	#SUBJ# can be converted into #OBJ#	11
+isa	#SUBJ# is a family of #OBJ#	11
+isa	#SUBJ# is one form of #OBJ#	11
+isa	#SUBJ# debuted at #OBJ#	11
+isa	#SUBJ# have taken #OBJ#	11
+isa	#SUBJ# is designed as #OBJ#	11
+isa	#SUBJ# is ahead of #OBJ#	10
+isa	#SUBJ# are protected under #OBJ#	10
+isa	#SUBJ# had outgrown #OBJ#	10
+isa	#SUBJ# is taught as #OBJ#	10
+isa	#SUBJ# offers a bachelor of #OBJ#	10
+isa	#SUBJ# immigrated to #OBJ#	10
+isa	#SUBJ# is a highly sought after #OBJ#	10
+isa	#SUBJ# offered in #OBJ#	10
+isa	#SUBJ# is the most widely spoken of #OBJ#	10
+isa	#SUBJ# is working with #OBJ#	9
+isa	#SUBJ# is admitted as #OBJ#	9
+isa	#SUBJ# topped the list of #OBJ#	9
+isa	#SUBJ# are actually for #OBJ#	9
+isa	#SUBJ# can register for #OBJ#	9
+isa	#SUBJ# are turning to #OBJ#	9
+isa	#SUBJ# is an acronym for #OBJ#	9
+leader	#SUBJ# is a constitutional monarchy with #OBJ#	3
+leader	#SUBJ# led by #OBJ#	3
+leader	#SUBJ# has elected #OBJ#	3
+leader	#SUBJ# will inaugurate #OBJ#	3
+leader	#SUBJ# were to be led by #OBJ#	2
+hascontext	#SUBJ# originated in #OBJ#	17
+hascontext	#SUBJ# is a question of #OBJ#	15
+hascontext	#SUBJ# erred both in #OBJ#	12
+hascontext	#SUBJ# instructed the jury on #OBJ#	12
+hascontext	#SUBJ# committed an error of #OBJ#	10
+hascontext	#SUBJ# is banned in #OBJ#	9
+hascontext	#SUBJ# is a mixed question of #OBJ#	9
+hascontext	#SUBJ# is permitted by #OBJ#	9
+hascontext	#SUBJ# were a series of #OBJ#	9
+hascontext	#SUBJ# will hear arguments on #OBJ#	9
+hascontext	#SUBJ# is the highest court of #OBJ#	9
+hascontext	#SUBJ# is an initiative of #OBJ#	8
+hascontext	#SUBJ# were born outside of #OBJ#	8
+hascontext	#SUBJ# is the biggest cosmopolitan city of #OBJ#	8
+hascontext	#SUBJ# made an error of #OBJ#	8
+hascontext	#SUBJ# was a prisoner of #OBJ#	8
+hascontext	#SUBJ# goes back to #OBJ#	8
+hascontext	#SUBJ# welcome back to #OBJ#	8
+hascontext	#SUBJ# is required by #OBJ#	8
+hascontext	#SUBJ# is the return on #OBJ#	8
+hascontext	#SUBJ# let parts of #OBJ#	8
+hascontext	#SUBJ# signed into #OBJ#	7
+hascontext	#SUBJ# remains illegal under #OBJ#	7
+hascontext	#SUBJ# would be contrary to #OBJ#	7
+hascontext	#SUBJ# is restricted by #OBJ#	7
+hascontext	#SUBJ# was fought in #OBJ#	7
+hascontext	#SUBJ# is illegal in #OBJ#	6
+hascontext	#SUBJ# was signed into #OBJ#	6
+hascontext	#SUBJ# draws conclusions of #OBJ#	6
+hascontext	#SUBJ# upheld the constitutionality of #OBJ#	6
+hascontext	#SUBJ# are presumed to know #OBJ#	6
+hascontext	#SUBJ# erred in instructing the jury on #OBJ#	6
+hascontext	#SUBJ# is authorized by #OBJ#	6
+hascontext	#SUBJ# must comply with #OBJ#	6
+hascontext	#SUBJ# return on #OBJ#	6
+hascontext	#SUBJ# is an ancient symbol of #OBJ#	6
+hascontext	#SUBJ# is an extremely picturesque place in #OBJ#	5
+hascontext	#SUBJ# were illegal under #OBJ#	5
+hascontext	#SUBJ# may be tried by #OBJ#	5
+hascontext	#SUBJ# is also widely spoken in #OBJ#	5
+hascontext	#SUBJ# has been a symbol of #OBJ#	5
+hascontext	#SUBJ# can be treated with #OBJ#	4
+hascontext	#SUBJ# must be arranged with #OBJ#	4
+hascontext	#SUBJ# encourage further acts of #OBJ#	4
+hascontext	#SUBJ# is a school of #OBJ#	4
+hascontext	#SUBJ# is a cd of #OBJ#	4
+hascontext	#SUBJ# shaped the sounds of #OBJ#	4
+hascontext	#SUBJ# is the financial hub of #OBJ#	4
+hascontext	#SUBJ# is also home to #OBJ#	4
+hascontext	#SUBJ# is primarily #OBJ#	4
+haslastsubevent	#SUBJ# is designed to prepare #OBJ#	8
+haslastsubevent	#SUBJ# must be submitted to #OBJ#	8
+haslastsubevent	#SUBJ# be enrolled in #OBJ#	8
+haslastsubevent	#SUBJ# must be filed with #OBJ#	7
+haslastsubevent	#SUBJ# submitted to #OBJ#	6
+haslastsubevent	#SUBJ# is filed with #OBJ#	6
+haslastsubevent	#SUBJ# has been approved by #OBJ#	5
+haslastsubevent	#SUBJ# is submitted to #OBJ#	5
+haslastsubevent	#SUBJ# was compiled with #OBJ#	5
+haslastsubevent	#SUBJ# suitably qualified #OBJ#	4
+haslastsubevent	#SUBJ# **here is #OBJ#	3
+haslastsubevent	#SUBJ# should contact #OBJ#	3
+haslastsubevent	#SUBJ# prepare students for #OBJ#	3
+haslastsubevent	#SUBJ# is intended to prepare #OBJ#	3
+haslastsubevent	#SUBJ# is a short distance from #OBJ#	2
+haslastsubevent	#SUBJ# also receive #OBJ#	2
+haslastsubevent	#SUBJ# necessarily call at #OBJ#	2
+haslastsubevent	#SUBJ# needs in #OBJ#	2
+haslastsubevent	#SUBJ# sent via #OBJ#	2
+madeof	#SUBJ# is a piece of #OBJ#	28
+madeof	#SUBJ# was stripped down to #OBJ#	18
+madeof	#SUBJ# are the best alternative to #OBJ#	18
+madeof	#SUBJ# is the number of #OBJ#	16
+madeof	#SUBJ# consists of about #OBJ#	13
+madeof	#SUBJ# contains a selection of #OBJ#	12
+madeof	#SUBJ# presents a collection of #OBJ#	12
+madeof	#SUBJ# then select #OBJ#	12
+madeof	#SUBJ# is broken down into #OBJ#	12
+madeof	#SUBJ# contains a collection of #OBJ#	10
+madeof	#SUBJ# is a series of #OBJ#	10
+madeof	#SUBJ# put the pedal to #OBJ#	10
+madeof	#SUBJ# is formed entirely of #OBJ#	10
+madeof	#SUBJ# contains over #OBJ#	10
+madeof	#SUBJ# share a pair of #OBJ#	9
+madeof	#SUBJ# is crafted of #OBJ#	9
+madeof	#SUBJ# has been losing #OBJ#	9
+madeof	#SUBJ# had grown to #OBJ#	9
+madeof	#SUBJ# exist for only #OBJ#	9
+madeof	#SUBJ# was comprised of #OBJ#	9
+madeof	#SUBJ# is the exception to #OBJ#	9
+madeof	#SUBJ# expressed on #OBJ#	9
+madeof	#SUBJ# must be baptized in #OBJ#	9
+madeof	#SUBJ# are covered by #OBJ#	9
+madeof	#SUBJ# was a piece of #OBJ#	9
+madeof	#SUBJ# whipped through #OBJ#	9
+madeof	#SUBJ# smells of #OBJ#	9
+madeof	#SUBJ# cover with #OBJ#	8
+madeof	#SUBJ# consists of selected #OBJ#	8
+madeof	#SUBJ# includes selected #OBJ#	8
+madeof	#SUBJ# sift together #OBJ#	8
+madeof	#SUBJ# is just a hunk of #OBJ#	8
+madeof	#SUBJ# was taken down to #OBJ#	8
+madeof	#SUBJ# have partaken of #OBJ#	8
+madeof	#SUBJ# was formed for #OBJ#	8
+madeof	#SUBJ# is played within #OBJ#	8
+madeof	#SUBJ# strain into #OBJ#	8
+madeof	#SUBJ# looks half-full through #OBJ#	8
+madeof	#SUBJ# were rebuilt in #OBJ#	8
+madeof	#SUBJ# is clad in #OBJ#	8
+madeof	#SUBJ# stop producing #OBJ#	8
+madeof	#SUBJ# proceeds into #OBJ#	8
+madeof	#SUBJ# is frozen #OBJ#	8
+madeof	#SUBJ# is a mass of #OBJ#	8
+madeof	#SUBJ# was flooded with #OBJ#	8
+madeof	#SUBJ# was alive with #OBJ#	8
+madeof	#SUBJ# operates in #OBJ#	8
+madeof	#SUBJ# is usually measured in #OBJ#	8
+madeof	#SUBJ# is transmitted #OBJ#	8
+madeof	#SUBJ# was built from #OBJ#	8
+influencedby	#SUBJ# runs on #OBJ#	10
+influencedby	#SUBJ# recovered by #OBJ#	9
+influencedby	#SUBJ# is interoperable with #OBJ#	7
+influencedby	#SUBJ# is a liver disease caused by #OBJ#	7
+influencedby	#SUBJ# has been generated from #OBJ#	6
+influencedby	#SUBJ# was adapted from #OBJ#	6
+influencedby	#SUBJ# implemented in #OBJ#	6
+influencedby	#SUBJ# was taught by #OBJ#	6
+influencedby	#SUBJ# is a unique form of #OBJ#	6
+influencedby	#SUBJ# is completely different from #OBJ#	5
+influencedby	#SUBJ# attributes to #OBJ#	5
+influencedby	#SUBJ# is an analog to #OBJ#	5
+influencedby	#SUBJ# explained to #OBJ#	5
+influencedby	#SUBJ# will work alongside #OBJ#	5
+influencedby	#SUBJ# has very little to do with #OBJ#	4
+influencedby	#SUBJ# is much easier to learn than #OBJ#	4
+influencedby	#SUBJ# was the son of #OBJ#	4
+influencedby	#SUBJ# is a dialect of #OBJ#	4
+influencedby	#SUBJ# can therefore be linked with #OBJ#	4
+influencedby	#SUBJ# is passed around as #OBJ#	4
+influencedby	#SUBJ# is uses #OBJ#	4
+influencedby	#SUBJ# is complied into #OBJ#	4
+influencedby	#SUBJ# competes with #OBJ#	4
+influencedby	#SUBJ# is rather close to #OBJ#	4
+influencedby	#SUBJ# is broadly similar to #OBJ#	4
+influencedby	#SUBJ# is easier than in #OBJ#	4
+influencedby	#SUBJ# occupies a space between #OBJ#	4
+influencedby	#SUBJ# is simpler than #OBJ#	4
+influencedby	#SUBJ# was derived from #OBJ#	4
+influencedby	#SUBJ# bytecodes to #OBJ#	3
+influencedby	#SUBJ# is a stripped-down version of #OBJ#	3
+influencedby	#SUBJ# supports most of #OBJ#	3
+influencedby	#SUBJ# is compiled into #OBJ#	3
+influencedby	#SUBJ# wrote about #OBJ#	3
+influencedby	#SUBJ# had studied under #OBJ#	3
+influencedby	#SUBJ# is often compared to #OBJ#	3
+influencedby	#SUBJ# improves on #OBJ#	3
+influencedby	#SUBJ# adopted the atomic theory of #OBJ#	2
+influencedby	#SUBJ# is a complement of #OBJ#	2
+influencedby	#SUBJ# is a huge step backwards for #OBJ#	2
+influencedby	#SUBJ# is sometimes touted as being #OBJ#	2
+influencedby	#SUBJ# is a rough superset of #OBJ#	2
+influencedby	#SUBJ# behaves then the same as #OBJ#	2
+influencedby	#SUBJ# ranks alongside #OBJ#	2
+influencedby	#SUBJ# is a successor of #OBJ#	2
+influencedby	#SUBJ# are slower than #OBJ#	2
+influencedby	#SUBJ# are named like #OBJ#	2
+influencedby	#SUBJ# borrows heavily from #OBJ#	2
+influencedby	#SUBJ# is just a kind of #OBJ#	2
+influencedby	#SUBJ# will be installed in #OBJ#	2
+distinctfrom	#SUBJ# must prevail over #OBJ#	27
+distinctfrom	#SUBJ# is the absence of #OBJ#	25
+distinctfrom	#SUBJ# will conquer #OBJ#	24
+distinctfrom	#SUBJ# will triumph over #OBJ#	18
+distinctfrom	#SUBJ# emerges from behind #OBJ#	18
+distinctfrom	#SUBJ# was preferable to #OBJ#	18
+distinctfrom	#SUBJ# is a crime against #OBJ#	18
+distinctfrom	#SUBJ# may be tomorrows #OBJ#	16
+distinctfrom	#SUBJ# turns on automatically in #OBJ#	16
+distinctfrom	#SUBJ# often sits in #OBJ#	16
+distinctfrom	#SUBJ# drove in #OBJ#	16
+distinctfrom	#SUBJ# will break #OBJ#	15
+distinctfrom	#SUBJ# is cured by #OBJ#	14
+distinctfrom	#SUBJ# is the speed of #OBJ#	14
+distinctfrom	#SUBJ# talked to #OBJ#	14
+distinctfrom	#SUBJ# get richer while #OBJ#	14
+distinctfrom	#SUBJ# wished for #OBJ#	14
+distinctfrom	#SUBJ# can turn into #OBJ#	13
+distinctfrom	#SUBJ# only reach into #OBJ#	12
+distinctfrom	#SUBJ# sorted by #OBJ#	12
+distinctfrom	#SUBJ# will prevail over #OBJ#	12
+distinctfrom	#SUBJ# can drive out #OBJ#	12
+distinctfrom	#SUBJ# can conquer #OBJ#	12
+distinctfrom	#SUBJ# extends beyond #OBJ#	12
+distinctfrom	#SUBJ# is as important as #OBJ#	12
+distinctfrom	#SUBJ# is more interesting than #OBJ#	11
+distinctfrom	#SUBJ# will be better than #OBJ#	11
+distinctfrom	#SUBJ# merge onto #OBJ#	11
+distinctfrom	#SUBJ# is cooler than #OBJ#	11
+distinctfrom	#SUBJ# are reliant on #OBJ#	11
+distinctfrom	#SUBJ# always puts out #OBJ#	10
+distinctfrom	#SUBJ# is shined into #OBJ#	10
+distinctfrom	#SUBJ# is hidden in #OBJ#	10
+distinctfrom	#SUBJ# was their fuss about #OBJ#	10
+distinctfrom	#SUBJ# are making upon #OBJ#	10
+distinctfrom	#SUBJ# have need of #OBJ#	10
+distinctfrom	#SUBJ# looks better than #OBJ#	10
+distinctfrom	#SUBJ# are eaten by #OBJ#	9
+distinctfrom	#SUBJ# are food for #OBJ#	9
+distinctfrom	#SUBJ# is just a sweeter word for #OBJ#	9
+distinctfrom	#SUBJ# will be held saturday at #OBJ#	9
+distinctfrom	#SUBJ# bounded on #OBJ#	9
+distinctfrom	#SUBJ# is bordered to #OBJ#	9
+distinctfrom	#SUBJ# has accused #OBJ#	9
+distinctfrom	#SUBJ# might happen #OBJ#	9
+distinctfrom	#SUBJ# will determine #OBJ#	9
+distinctfrom	#SUBJ# is going to be better than #OBJ#	9
+distinctfrom	#SUBJ# will be a better day than #OBJ#	9
+distinctfrom	#SUBJ# was ratified by #OBJ#	9
+distinctfrom	#SUBJ# beat up #OBJ#	9
+derivedfrom	#SUBJ# is a sudden movement of #OBJ#	9
+derivedfrom	#SUBJ# is steeped in #OBJ#	9
+derivedfrom	#SUBJ# is the worship of #OBJ#	9
+derivedfrom	#SUBJ# is the fifth largest of #OBJ#	8
+derivedfrom	#SUBJ# is closer to #OBJ#	8
+derivedfrom	#SUBJ# is freed from #OBJ#	8
+derivedfrom	#SUBJ# is set to allow #OBJ#	7
+derivedfrom	#SUBJ# shall be shut up in #OBJ#	7
+derivedfrom	#SUBJ# have escaped from #OBJ#	7
+derivedfrom	#SUBJ# is an infection caused by #OBJ#	7
+derivedfrom	#SUBJ# are given the opportunity to #OBJ#	7
+derivedfrom	#SUBJ# now learn #OBJ#	6
+derivedfrom	#SUBJ# playable on #OBJ#	6
+derivedfrom	#SUBJ# was developed for #OBJ#	6
+derivedfrom	#SUBJ# has dropped to #OBJ#	6
+derivedfrom	#SUBJ# are sentenced to #OBJ#	6
+derivedfrom	#SUBJ# is the crown jewel of #OBJ#	5
+derivedfrom	#SUBJ# is more desirable than #OBJ#	5
+derivedfrom	#SUBJ# are set by #OBJ#	5
+derivedfrom	#SUBJ# is a malignant neoplasm of #OBJ#	5
+derivedfrom	#SUBJ# will have a track record of #OBJ#	5
+derivedfrom	#SUBJ# will demonstrate #OBJ#	5
+derivedfrom	#SUBJ# has produced about #OBJ#	5
+derivedfrom	#SUBJ# is an overgrowth of #OBJ#	5
+derivedfrom	#SUBJ# said any drastic fall in #OBJ#	4
+derivedfrom	#SUBJ# has truly revolutionized #OBJ#	4
+derivedfrom	#SUBJ# runs during #OBJ#	4
+derivedfrom	#SUBJ# is listed on #OBJ#	4
+derivedfrom	#SUBJ# occur on #OBJ#	4
+derivedfrom	#SUBJ# are written for #OBJ#	4
+derivedfrom	#SUBJ# were aspects of #OBJ#	4
+derivedfrom	#SUBJ# has all the attributes of #OBJ#	4
+derivedfrom	#SUBJ# is a museum of #OBJ#	4
+derivedfrom	#SUBJ# has a duty to defend #OBJ#	4
+derivedfrom	#SUBJ# has been developing #OBJ#	4
+derivedfrom	#SUBJ# is nt about #OBJ#	4
+derivedfrom	#SUBJ# is also proud to sponsor #OBJ#	4
+derivedfrom	#SUBJ# are cancer of #OBJ#	4
+derivedfrom	#SUBJ# runs the length of #OBJ#	4
+derivedfrom	#SUBJ# has spread beyond #OBJ#	4
+derivedfrom	#SUBJ# grew to #OBJ#	4
+derivedfrom	#SUBJ# has gone up from #OBJ#	4
+derivedfrom	#SUBJ# has fallen to #OBJ#	4
+derivedfrom	#SUBJ# run parallel to #OBJ#	4
+derivedfrom	#SUBJ# is designed after #OBJ#	4
+derivedfrom	#SUBJ# ran across #OBJ#	4
+derivedfrom	#SUBJ# stamped in #OBJ#	4
+derivedfrom	#SUBJ# is the seventh day of #OBJ#	4
+derivedfrom	#SUBJ# are better at #OBJ#	3
+derivedfrom	#SUBJ# actually degraded #OBJ#	3
+motivatedbygoal	#SUBJ# is right on #OBJ#	6
+motivatedbygoal	#SUBJ# are great forms of #OBJ#	6
+motivatedbygoal	#SUBJ# is a great way to get #OBJ#	5
+motivatedbygoal	#SUBJ# will help to keep #OBJ#	5
+motivatedbygoal	#SUBJ# spend a lot of #OBJ#	5
+motivatedbygoal	#SUBJ# will save #OBJ#	5
+motivatedbygoal	#SUBJ# is to earn #OBJ#	5
+motivatedbygoal	#SUBJ# are appointed by #OBJ#	4
+motivatedbygoal	#SUBJ# decides according to #OBJ#	4
+motivatedbygoal	#SUBJ# were selected by #OBJ#	4
+motivatedbygoal	#SUBJ# can remain #OBJ#	3
+motivatedbygoal	#SUBJ# resigned to become #OBJ#	3
+motivatedbygoal	#SUBJ# is given to #OBJ#	3
+motivatedbygoal	#SUBJ# were sold as #OBJ#	3
+motivatedbygoal	#SUBJ# is infused with #OBJ#	3
+motivatedbygoal	#SUBJ# might also want to add #OBJ#	2
+motivatedbygoal	#SUBJ# helps to keep #OBJ#	2
+motivatedbygoal	#SUBJ# can help keep #OBJ#	2
+motivatedbygoal	#SUBJ# is important in keeping #OBJ#	2
+motivatedbygoal	#SUBJ# are a great way to keep #OBJ#	2
+motivatedbygoal	#SUBJ# will focus on #OBJ#	2
+motivatedbygoal	#SUBJ# keep secrets like #OBJ#	2
+motivatedbygoal	#SUBJ# shall submit a report to #OBJ#	2
+motivatedbygoal	#SUBJ# act on #OBJ#	2
+motivatedbygoal	#SUBJ# adds a glitter to #OBJ#	2
+motivatedbygoal	#SUBJ# seems to have a lot of #OBJ#	2
+motivatedbygoal	#SUBJ# is to get familiar with #OBJ#	2
+motivatedbygoal	#SUBJ# is a great place for #OBJ#	2
+motivatedbygoal	#SUBJ# have tons of #OBJ#	2
+motivatedbygoal	#SUBJ# meet is #OBJ#	2
+motivatedbygoal	#SUBJ# is prepared for #OBJ#	2
+motivatedbygoal	#SUBJ# join in #OBJ#	2
+motivatedbygoal	#SUBJ# are bags of #OBJ#	2
+motivatedbygoal	#SUBJ# will use #OBJ#	2
+motivatedbygoal	#SUBJ# are going to be satisfied with #OBJ#	2
+motivatedbygoal	#SUBJ# just be sure to do #OBJ#	2
+motivatedbygoal	#SUBJ# is every bit as #OBJ#	2
+motivatedbygoal	#SUBJ# come out as #OBJ#	2
+motivatedbygoal	#SUBJ# has refreshed #OBJ#	2
+motivatedbygoal	#SUBJ# provides relief from #OBJ#	2
+motivatedbygoal	#SUBJ# take a dip in #OBJ#	2
+motivatedbygoal	#SUBJ# do any kind of #OBJ#	2
+occupation	#SUBJ# is credited with #OBJ#	8
+occupation	#SUBJ# is the chairman of #OBJ#	7
+occupation	#SUBJ# was the ceo of #OBJ#	7
+occupation	#SUBJ# is retiring from #OBJ#	6
+occupation	#SUBJ# is the patron saint of #OBJ#	5
+occupation	#SUBJ# is the co-founder of #OBJ#	4
+occupation	#SUBJ# won the academy award for #OBJ#	4
+occupation	#SUBJ# spoke against #OBJ#	4
+occupation	#SUBJ# was crowned #OBJ#	4
+occupation	#SUBJ# was still running #OBJ#	4
+occupation	#SUBJ# did nt build #OBJ#	3
+occupation	#SUBJ# is the founder of #OBJ#	3
+occupation	#SUBJ# pleaded to #OBJ#	3
+occupation	#SUBJ# is evident from #OBJ#	3
+occupation	#SUBJ# is only great as #OBJ#	3
+occupation	#SUBJ# was stationed #OBJ#	2
+occupation	#SUBJ# received the academy award for #OBJ#	2
+occupation	#SUBJ# is practising #OBJ#	2
+occupation	#SUBJ# called to #OBJ#	2
+occupation	#SUBJ# is extended out near #OBJ#	2
+occupation	#SUBJ# was the greatest of #OBJ#	2
+occupation	#SUBJ# is next heard of as #OBJ#	2
+occupation	#SUBJ# copied the text of #OBJ#	2
+occupation	#SUBJ# began performing #OBJ#	2
+occupation	#SUBJ# agrees with #OBJ#	2
+occupation	#SUBJ# was ordained as #OBJ#	2
+occupation	#SUBJ# was reckoned the first of #OBJ#	2
+occupation	#SUBJ# also fails as #OBJ#	2
+occupation	#SUBJ# said unto #OBJ#	2
+occupation	#SUBJ# speaks of #OBJ#	2
+occupation	#SUBJ# was appointed as #OBJ#	2
+occupation	#SUBJ# stood trial as #OBJ#	2
+occupation	#SUBJ# was called as #OBJ#	2
+occupation	#SUBJ# was ordained #OBJ#	2
+occupation	#SUBJ# once took in #OBJ#	2
+occupation	#SUBJ# writes in #OBJ#	2
+occupation	#SUBJ# is the grandson of #OBJ#	2
+occupation	#SUBJ# first began recording #OBJ#	2
+occupation	#SUBJ# played by #OBJ#	2
+occupation	#SUBJ# are small stages of #OBJ#	2
+occupation	#SUBJ# should be clearly delegated to #OBJ#	2
+occupation	#SUBJ# came to see #OBJ#	2
+occupation	#SUBJ# gives a very personal introduction to #OBJ#	2
+occupation	#SUBJ# wrote a book on #OBJ#	2
+occupation	#SUBJ# is one-half of #OBJ#	2
+occupation	#SUBJ# is heavily pregnant for #OBJ#	2
+occupation	#SUBJ# was ceo of #OBJ#	2
+occupation	#SUBJ# went on to found #OBJ#	2
+occupation	#SUBJ# was the chief executive of #OBJ#	2
+occupation	#SUBJ# also owns #OBJ#	2
+nothasproperty	#SUBJ# is transformed into #OBJ#	8
+nothasproperty	#SUBJ# can equal #OBJ#	8
+nothasproperty	#SUBJ# is condensed into #OBJ#	7
+nothasproperty	#SUBJ# takes up more space than #OBJ#	7
+nothasproperty	#SUBJ# produce large volumes of #OBJ#	7
+nothasproperty	#SUBJ# is felt on #OBJ#	7
+nothasproperty	#SUBJ# lead more quickly than #OBJ#	7
+nothasproperty	#SUBJ# is compressed into #OBJ#	6
+nothasproperty	#SUBJ# are safe to #OBJ#	6
+nothasproperty	#SUBJ# is still buzzing over #OBJ#	6
+nothasproperty	#SUBJ# replace with #OBJ#	5
+nothasproperty	#SUBJ# is a property of #OBJ#	5
+nothasproperty	#SUBJ# can be born in #OBJ#	5
+nothasproperty	#SUBJ# was weak against #OBJ#	5
+nothasproperty	#SUBJ# can be dissolved in #OBJ#	5
+nothasproperty	#SUBJ# is stored as #OBJ#	5
+nothasproperty	#SUBJ# produced at #OBJ#	5
+nothasproperty	#SUBJ# inexpensively produced from #OBJ#	5
+nothasproperty	#SUBJ# is changed into #OBJ#	5
+nothasproperty	#SUBJ# broke of #OBJ#	5
+nothasproperty	#SUBJ# blank on #OBJ#	5
+nothasproperty	#SUBJ# lined on #OBJ#	5
+nothasproperty	#SUBJ# earn more than #OBJ#	5
+nothasproperty	#SUBJ# should be kept #OBJ#	5
+nothasproperty	#SUBJ# looks exactly the same as #OBJ#	5
+nothasproperty	#SUBJ# weighs less than #OBJ#	5
+nothasproperty	#SUBJ# is the form of #OBJ#	4
+nothasproperty	#SUBJ# can be condensed into #OBJ#	4
+nothasproperty	#SUBJ# is compressed to #OBJ#	4
+nothasproperty	#SUBJ# avoid contact with #OBJ#	4
+nothasproperty	#SUBJ# recovered from #OBJ#	4
+nothasproperty	#SUBJ# is easily separated from #OBJ#	4
+nothasproperty	#SUBJ# are denser than #OBJ#	4
+nothasproperty	#SUBJ# is going on on #OBJ#	4
+nothasproperty	#SUBJ# sometimes face #OBJ#	4
+nothasproperty	#SUBJ# is to follow #OBJ#	4
+nothasproperty	#SUBJ# is listed in #OBJ#	4
+nothasproperty	#SUBJ# occurred on #OBJ#	4
+nothasproperty	#SUBJ# must be treated #OBJ#	4
+nothasproperty	#SUBJ# be entitled to #OBJ#	4
+nothasproperty	#SUBJ# is enforced as #OBJ#	4
+nothasproperty	#SUBJ# can pour like #OBJ#	4
+nothasproperty	#SUBJ# move faster than #OBJ#	4
+nothasproperty	#SUBJ# are too thick for #OBJ#	4
+nothasproperty	#SUBJ# could land on #OBJ#	4
+nothasproperty	#SUBJ# is a potential of #OBJ#	3
+nothasproperty	#SUBJ# is another form of #OBJ#	3
+nothasproperty	#SUBJ# allows unprecedented pictures of #OBJ#	3
+nothasproperty	#SUBJ# can create #OBJ#	3
+nothasproperty	#SUBJ# clumped together to form #OBJ#	3
+hasprerequisite	#SUBJ# are appointed by #OBJ#	9
+hasprerequisite	#SUBJ# will boost #OBJ#	9
+hasprerequisite	#SUBJ# wrote for #OBJ#	7
+hasprerequisite	#SUBJ# was applied by #OBJ#	7
+hasprerequisite	#SUBJ# was to compare #OBJ#	7
+hasprerequisite	#SUBJ# is often a sign of #OBJ#	7
+hasprerequisite	#SUBJ# still burns on #OBJ#	7
+hasprerequisite	#SUBJ# may consult with #OBJ#	6
+hasprerequisite	#SUBJ# was supplied with #OBJ#	6
+hasprerequisite	#SUBJ# is stored as #OBJ#	5
+hasprerequisite	#SUBJ# was to investigate #OBJ#	5
+hasprerequisite	#SUBJ# should incorporate #OBJ#	5
+hasprerequisite	#SUBJ# may be a sign of #OBJ#	5
+hasprerequisite	#SUBJ# is designed to keep #OBJ#	5
+hasprerequisite	#SUBJ# uses up #OBJ#	5
+hasprerequisite	#SUBJ# is for running #OBJ#	4
+hasprerequisite	#SUBJ# drop off #OBJ#	4
+hasprerequisite	#SUBJ# are elected by #OBJ#	4
+hasprerequisite	#SUBJ# has upheld #OBJ#	4
+hasprerequisite	#SUBJ# is an east asian type of #OBJ#	4
+hasprerequisite	#SUBJ# is a natural extension of #OBJ#	4
+hasprerequisite	#SUBJ# can be regarded as #OBJ#	4
+hasprerequisite	#SUBJ# is underway to update #OBJ#	4
+hasprerequisite	#SUBJ# are commensurate with #OBJ#	4
+hasprerequisite	#SUBJ# was conducted to determine #OBJ#	4
+hasprerequisite	#SUBJ# will examine #OBJ#	4
+hasprerequisite	#SUBJ# sink deep into #OBJ#	4
+hasprerequisite	#SUBJ# uses a lot of #OBJ#	4
+hasprerequisite	#SUBJ# still lingered on #OBJ#	4
+hasprerequisite	#SUBJ# will improve #OBJ#	4
+hasprerequisite	#SUBJ# shall cooperate with #OBJ#	3
+hasprerequisite	#SUBJ# will continue to serve as #OBJ#	3
+hasprerequisite	#SUBJ# is assigned as #OBJ#	3
+hasprerequisite	#SUBJ# just enjoy #OBJ#	3
+hasprerequisite	#SUBJ# found an association between #OBJ#	3
+hasprerequisite	#SUBJ# was to examine #OBJ#	3
+hasprerequisite	#SUBJ# is often associated with #OBJ#	3
+hasprerequisite	#SUBJ# may be a symptom of #OBJ#	3
+hasprerequisite	#SUBJ# add salt to #OBJ#	3
+hasprerequisite	#SUBJ# will lower #OBJ#	3
+hasprerequisite	#SUBJ# soak your feet in #OBJ#	3
+hasprerequisite	#SUBJ# will be an important source of #OBJ#	3
+hasprerequisite	#SUBJ# is a function of #OBJ#	3
+hasprerequisite	#SUBJ# is the best way to train #OBJ#	3
+hasprerequisite	#SUBJ# is the taste from #OBJ#	3
+hasprerequisite	#SUBJ# gently raise her hand to #OBJ#	3
+hasprerequisite	#SUBJ# gently place #OBJ#	3
+hasprerequisite	#SUBJ# is sometimes called a dance of #OBJ#	3
+hasprerequisite	#SUBJ# will travel anywhere in #OBJ#	2
+hasprerequisite	#SUBJ# is worth #OBJ#	2
+capableof	#SUBJ# was destroyed in #OBJ#	10
+capableof	#SUBJ# respond to #OBJ#	9
+capableof	#SUBJ# was answered on #OBJ#	9
+capableof	#SUBJ# are affected by #OBJ#	8
+capableof	#SUBJ# get a bucket of #OBJ#	8
+capableof	#SUBJ# are required to complete #OBJ#	8
+capableof	#SUBJ# learned to #OBJ#	8
+capableof	#SUBJ# was clear with #OBJ#	8
+capableof	#SUBJ# are afraid of #OBJ#	7
+capableof	#SUBJ# have led to #OBJ#	7
+capableof	#SUBJ# was totaled in #OBJ#	7
+capableof	#SUBJ# could combat #OBJ#	6
+capableof	#SUBJ# will begin to #OBJ#	6
+capableof	#SUBJ# was answered after #OBJ#	6
+capableof	#SUBJ# uses the weight of #OBJ#	6
+capableof	#SUBJ# can find good to #OBJ#	6
+capableof	#SUBJ# is coming up #OBJ#	6
+capableof	#SUBJ# manufactures in #OBJ#	6
+capableof	#SUBJ# is hand forged with #OBJ#	6
+capableof	#SUBJ# is eaten by #OBJ#	6
+capableof	#SUBJ# have networked #OBJ#	6
+capableof	#SUBJ# is caught on #OBJ#	6
+capableof	#SUBJ# have passed #OBJ#	6
+capableof	#SUBJ# is the lengthy process of #OBJ#	5
+capableof	#SUBJ# picked up on #OBJ#	5
+capableof	#SUBJ# had ceased to #OBJ#	5
+capableof	#SUBJ# will gradually erase #OBJ#	5
+capableof	#SUBJ# is tough ball with #OBJ#	5
+capableof	#SUBJ# had died in #OBJ#	5
+capableof	#SUBJ# were injured in #OBJ#	5
+capableof	#SUBJ# are better designed for #OBJ#	5
+capableof	#SUBJ# caught fire after #OBJ#	5
+capableof	#SUBJ# come on #OBJ#	4
+capableof	#SUBJ# are mainly #OBJ#	4
+capableof	#SUBJ# must be prepared for #OBJ#	4
+capableof	#SUBJ# is told to #OBJ#	4
+capableof	#SUBJ# take refuge in #OBJ#	4
+capableof	#SUBJ# are erected to #OBJ#	4
+capableof	#SUBJ# uses per #OBJ#	4
+capableof	#SUBJ# is sure to #OBJ#	4
+capableof	#SUBJ# are carried #OBJ#	4
+capableof	#SUBJ# seeps in #OBJ#	4
+capableof	#SUBJ# took a couple of #OBJ#	4
+capableof	#SUBJ# caught on #OBJ#	4
+capableof	#SUBJ# is consistently doing #OBJ#	4
+capableof	#SUBJ# are things like #OBJ#	4
+capableof	#SUBJ# can wear #OBJ#	4
+capableof	#SUBJ# may be losing #OBJ#	4
+capableof	#SUBJ# was featured in #OBJ#	4
+capableof	#SUBJ# has bitten #OBJ#	4
+field	#SUBJ# was the founder of #OBJ#	7
+field	#SUBJ# won the nobel prize in #OBJ#	6
+field	#SUBJ# was awarded the nobel prize in #OBJ#	5
+field	#SUBJ# essays in #OBJ#	5
+field	#SUBJ# was pioneering #OBJ#	4
+field	#SUBJ# receives the nobel prize for #OBJ#	3
+field	#SUBJ# wins the nobel prize in #OBJ#	3
+field	#SUBJ# were awarded the nobel prize in #OBJ#	3
+field	#SUBJ# were awarded the nobel prize for #OBJ#	3
+field	#SUBJ# was fascinated by #OBJ#	3
+field	#SUBJ# is a professor of #OBJ#	3
+field	#SUBJ# became a professor of #OBJ#	3
+field	#SUBJ# gives birth to #OBJ#	3
+field	#SUBJ# is considered to be the father of #OBJ#	2
+field	#SUBJ# were one talking about #OBJ#	2
+field	#SUBJ# was awarded the nobel prize for #OBJ#	2
+field	#SUBJ# cannot be separated from #OBJ#	2
+field	#SUBJ# is now studied in #OBJ#	2
+field	#SUBJ# is an engaging tour of #OBJ#	2
+field	#SUBJ# has a ph.d in #OBJ#	2
+field	#SUBJ# brought increased attention to #OBJ#	2
+field	#SUBJ# yield new insights into #OBJ#	2
+field	#SUBJ# thinks about #OBJ#	2
+field	#SUBJ# painted only #OBJ#	2
+field	#SUBJ# began photographing #OBJ#	2
+field	#SUBJ# is also called as #OBJ#	2
+field	#SUBJ# is the onset of #OBJ#	2
+field	#SUBJ# dipped his brush in #OBJ#	2
+field	#SUBJ# discovered the laws of #OBJ#	2
+field	#SUBJ# won the nobel prize for #OBJ#	2
+field	#SUBJ# won a nobel prize in #OBJ#	2
+field	#SUBJ# laid the foundation of #OBJ#	2
+field	#SUBJ# made distinguished contributions to #OBJ#	2
+field	#SUBJ# builds bridges between #OBJ#	2
+field	#SUBJ# is famous in #OBJ#	2
+field	#SUBJ# combines aspects of #OBJ#	2
+field	#SUBJ# was a professor of #OBJ#	2
+field	#SUBJ# executed a number of #OBJ#	2
+field	#SUBJ# developed the theory of #OBJ#	2
+field	#SUBJ# founded the psychoanalytic school of #OBJ#	2
+field	#SUBJ# knocked out #OBJ#	2
+field	#SUBJ# completed every one of #OBJ#	2
+field	#SUBJ# received the nobel prize in #OBJ#	2
+notcapableof	#SUBJ# walk as #OBJ#	7
+notcapableof	#SUBJ# reported on #OBJ#	7
+notcapableof	#SUBJ# can inflict #OBJ#	4
+notcapableof	#SUBJ# wants to #OBJ#	3
+notcapableof	#SUBJ# will sprout #OBJ#	3
+notcapableof	#SUBJ# usually cling to #OBJ#	2
+notcapableof	#SUBJ# store food in #OBJ#	2
+notcapableof	#SUBJ# was born from #OBJ#	2
+notcapableof	#SUBJ# please browse #OBJ#	2
+notcapableof	#SUBJ# can change to accommodate #OBJ#	2
+notcapableof	#SUBJ# are always good for #OBJ#	2
+notcapableof	#SUBJ# is largely absent from #OBJ#	2
+notcapableof	#SUBJ# may be stressed by #OBJ#	2
+notcapableof	#SUBJ# went for #OBJ#	2
+notcapableof	#SUBJ# is fused with #OBJ#	2
+notcapableof	#SUBJ# will be built in #OBJ#	2
+similarto	#SUBJ# likes to grow in #OBJ#	16
+similarto	#SUBJ# are going to be held in #OBJ#	12
+similarto	#SUBJ# has decreased dramatically since #OBJ#	10
+similarto	#SUBJ# are usually born in #OBJ#	10
+similarto	#SUBJ# often wore #OBJ#	9
+similarto	#SUBJ# is sourced from #OBJ#	9
+similarto	#SUBJ# relocates to #OBJ#	9
+similarto	#SUBJ# look best in #OBJ#	8
+similarto	#SUBJ# allow to rest in #OBJ#	8
+similarto	#SUBJ# entails the use of #OBJ#	8
+similarto	#SUBJ# perhaps pulsed #OBJ#	8
+similarto	#SUBJ# remove with #OBJ#	8
+similarto	#SUBJ# be one-of-a-kind in #OBJ#	8
+similarto	#SUBJ# was harvested from #OBJ#	8
+similarto	#SUBJ# takes a variety of #OBJ#	8
+similarto	#SUBJ# forced into #OBJ#	8
+similarto	#SUBJ# is calling for #OBJ#	8
+similarto	#SUBJ# was standing outside of #OBJ#	8
+similarto	#SUBJ# is a little on #OBJ#	7
+similarto	#SUBJ# have risen throughout #OBJ#	7
+similarto	#SUBJ# is bathed in #OBJ#	7
+similarto	#SUBJ# will force #OBJ#	6
+similarto	#SUBJ# is crucial to #OBJ#	6
+similarto	#SUBJ# is a province in #OBJ#	6
+similarto	#SUBJ# is noteworthy for #OBJ#	6
+similarto	#SUBJ# seal 'd #OBJ#	6
+similarto	#SUBJ# appeared to be in #OBJ#	6
+similarto	#SUBJ# will learn about #OBJ#	6
+similarto	#SUBJ# works throughout #OBJ#	5
+similarto	#SUBJ# is found primarily in #OBJ#	5
+similarto	#SUBJ# need to exercise #OBJ#	5
+similarto	#SUBJ# are conducted at #OBJ#	4
+similarto	#SUBJ# often ranked at #OBJ#	4
+similarto	#SUBJ# help make #OBJ#	4
+similarto	#SUBJ# can be included is #OBJ#	4
+similarto	#SUBJ# are different to #OBJ#	4
+similarto	#SUBJ# are openly available on #OBJ#	4
+similarto	#SUBJ# was the name given to #OBJ#	4
+similarto	#SUBJ# are attractive in #OBJ#	4
+similarto	#SUBJ# is the natural color of #OBJ#	4
+similarto	#SUBJ# reflects a lot of #OBJ#	4
+similarto	#SUBJ# is made by mixing #OBJ#	4
+similarto	#SUBJ# is created by combining #OBJ#	4
+similarto	#SUBJ# is the color of #OBJ#	4
+similarto	#SUBJ# was rotting in #OBJ#	4
+similarto	#SUBJ# especially flooded #OBJ#	4
+similarto	#SUBJ# largely drove #OBJ#	4
+similarto	#SUBJ# saw combat in #OBJ#	4
+similarto	#SUBJ# looks to be in #OBJ#	4
+similarto	#SUBJ# are often forced into #OBJ#	4
+genus	#SUBJ# are a species of #OBJ#	8
+genus	#SUBJ# is a relative of #OBJ#	7
+genus	#SUBJ# was a subspecies of #OBJ#	5
+genus	#SUBJ# is an ancient relative of #OBJ#	5
+genus	#SUBJ# is closely related to #OBJ#	5
+genus	#SUBJ# is linked forever to #OBJ#	2
+genus	#SUBJ# is very similar to #OBJ#	2
+genus	#SUBJ# can be obtained at #OBJ#	2
+genus	#SUBJ# is a fork of #OBJ#	2
+genus	#SUBJ# experimentally infected with #OBJ#	2
+genus	#SUBJ# is the northern form of #OBJ#	2
+genus	#SUBJ# contains more protein than #OBJ#	2
+genus	#SUBJ# has superior qualities to #OBJ#	2
+genus	#SUBJ# is an ancient version of #OBJ#	2
+genus	#SUBJ# is a distant cousin to #OBJ#	2
+genus	#SUBJ# is much faster than #OBJ#	2
+genus	#SUBJ# are often called #OBJ#	2

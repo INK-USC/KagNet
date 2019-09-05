@@ -1,0 +1,3 @@
+[submodule "openie5/OpenIE-standalone"]
+	path = openie5/OpenIE-standalone
+	url = https://github.com/dair-iitd/OpenIE-standalone.git

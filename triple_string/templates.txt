@@ -1,0 +1,199 @@
+[atlocation/locatednear]
+you are likely to find #SUBJ# in #OBJ#
+something you find at #OBJ# is #SUBJ#
+something you find in #OBJ# is #SUBJ#
+something you find on #OBJ# is #SUBJ#
+something you find near #OBJ# is #SUBJ#
+you are likely to find #SUBJ# in #OBJ#
+something you find under #OBJ# is #SUBJ#
+#SUBJ# can be in #OBJ#
+#SUBJ# can be on #OBJ#
+#SUBJ# can be #OBJ#
+#SUBJ# can be near #OBJ#
+#SUBJ# is located in #OBJ#
+you are likely to find #SUBJ# on #OBJ#
+you are likely to find #SUBJ# in #OBJ#
+you are likely to find #SUBJ# at #OBJ#
+you are likely to find #SUBJ# near #OBJ# 
+in #OBJ# , you can find #SUBJ#
+at #OBJ# , you can find #SUBJ#
+on #OBJ# , you can find #SUBJ#
+near #OBJ# , you can find #SUBJ#
+#SUBJ# is halfway between #OBJ#
+#SUBJ# is accessed from #OBJ#
+
+[capableof]
+#SUBJ# has the ability to #OBJ#
+#SUBJ# is capable of #OBJ#
+#SUBJ# can #OBJ#
+an activity #SUBJ# can do is #OBJ#
+#SUBJ# can #OBJ#
+#SUBJ# often do #OBJ#
+#SUBJ# may #OBJ#
+#SUBJ# sometimes do #OBJ#
+a #SUBJ# can #OBJ#
+you can do #OBJ# by #SUBJ#
+#OBJ# is done by #SUBJ#
+
+[causes/causesdesire/*motivatedbygoal]
+sometimes #SUBJ# causes #OBJ#
+something that might happen as a consequence of #SUBJ# is #OBJ#
+the effect of #SUBJ# is #OBJ#
+sometimes #SUBJ# causes you to #OBJ#
+the effect of #SUBJ# is #OBJ#
+#SUBJ# causes #OBJ#
+#SUBJ# is the reason of #OBJ#
+something that might happen as a consequence of #SUBJ# is that #OBJ#
+the effect of #SUBJ# is that #OBJ#
+the reason of #OBJ# is that #SUBJ#
+#SUBJ# would make you want to #OBJ#
+#SUBJ# make you want to #OBJ#
+#SUBJ# is the reason why you want #OBJ#
+#SUBJ# is the reason why you need #OBJ#
+#SUBJ# is the reason why you desire #OBJ#
+#SUBJ# make you desire #OBJ#
+you want #OBJ# because of #SUBJ#
+you would #OBJ# because #SUBJ#
+you would #OBJ# because you want to #SUBJ#
+you would #OBJ# because you want #SUBJ#
+you would #OBJ# because you #SUBJ#
+if you want to #SUBJ# then you should #OBJ#
+
+[createdby]
+#SUBJ# is created by #OBJ#
+#OBJ# is the author of #OBJ#
+#OBJ# is the creator of #OBJ# 
+
+[desires]
+#SUBJ# wants #OBJ#
+#SUBJ# wants to #OBJ#
+#SUBJ# like to #OBJ#
+#SUBJ# desires #OBJ#
+#SUBJ# needs #OBJ#
+#SUBJ# likes #OBJ#
+
+[antonym/distinctfrom]
+#SUBJ# is the opposite of #OBJ#
+you do not want a #SUBJ# with #OBJ#
+#SUBJ# is not #OBJ#	
+#OBJ# is not #SUBJ#	
+#SUBJ# is totally different from #OBJ#
+#OBJ# is totally different from #SUBJ#
+#SUBJ# is distinct from #OBJ#
+#OBJ# is distinct from #SUBJ#
+#SUBJ# and #OBJ# are very different
+#OBJ# and #SUBJ# are very different
+
+[hascontext]
+#SUBJ# is used in the context of #OBJ#
+#SUBJ# is used in the region of #OBJ#
+#SUBJ# is used in the area of #OBJ#
+
+[hasproperty]
+#SUBJ# is usually #OBJ#
+#SUBJ# are usually #OBJ#
+#SUBJ# can be #OBJ#
+#SUBJ# is generally #OBJ#
+#SUBJ# has the property of #OBJ#
+
+[hassubevent/hasfirstsubevent/haslastsubevent/hasprerequisite/entails/mannerof]
+the last thing you do when you #SUBJ# is #OBJ#
+if you want to #SUBJ# then you should #OBJ#
+#SUBJ# requires #OBJ#
+something you need to do before you #SUBJ# is #OBJ#
+the first thing you do when you #SUBJ# is #OBJ#
+something you might do while #SUBJ# is #OBJ#
+something that might happen when you #SUBJ# is #OBJ#
+something that might happen while #SUBJ# is #OBJ#
+one of the things you do when you #SUBJ# is #OBJ#
+when you do #SUBJ# , you need to #OBJ#
+when you are doing #SUBJ# , you have to #OBJ#
+one of the things you usually do when you #SUBJ# is #OBJ#
+#SUBJ# can be accessed through #OBJ#
+#SUBJ# will be accessible by #OBJ#
+#SUBJ# is a way to #OBJ#
+
+[isa/instanceof/definedas]
+for example , #SUBJ# is a #OBJ#
+for instance , #SUBJ# is a #OBJ#
+#SUBJ# is an instance of #OBJ#
+#SUBJ# is an example of #OBJ#
+#SUBJ# is a type of #OBJ#
+#SUBJ# is #OBJ#
+#SUBJ# are also #OBJ#
+#SUBJ# is a kind of #OBJ#
+#SUBJ# is a kind of #OBJ#
+#SUBJ# is a type of #OBJ#
+#SUBJ# is a #OBJ#
+a #SUBJ# is a #OBJ#
+there are many types of #OBJ# , such as #SUBJ#
+#SUBJ# can be defined as #OBJ#
+
+[madeof]
+#SUBJ# is made of #OBJ#
+#SUBJ# are made of #OBJ#
+#SUBJ# is made of #OBJ#
+#SUBJ# can be made of #OBJ#
+#SUBJ# may be made of #OBJ#
+#SUBJ# may be made from #OBJ#
+
+[notcapableof]
+#SUBJ# do not #OBJ#
+#SUBJ# cannot #OBJ#
+#SUBJ# has no ability to #OBJ#
+#SUBJ# is not capable of #OBJ#
+#SUBJ# cannot #OBJ#
+an activity #SUBJ# cannot do is #OBJ#
+#SUBJ# cannot #OBJ#   
+a #SUBJ# cannot #OBJ#
+you cannot do #OBJ# by #SUBJ# 
+
+[notdesires]
+#SUBJ# does n't want to #OBJ#
+#SUBJ# does n't want #OBJ#
+#SUBJ# does n't want #OBJ#
+#SUBJ# does n't want to #OBJ#
+
+[partof/*hasa]
+#SUBJ# is a part of #OBJ#
+#SUBJ# is part of #OBJ#
+#SUBJ# is part of #OBJ#
+#OBJ# has #SUBJ#
+#SUBJ# has #OBJ# 
+#SUBJ# contains #OBJ#
+#SUBJ# is loaded with #OBJ#	
+
+[relatedto/similarto/synonym]
+#SUBJ# is related to #OBJ#
+#SUBJ# is very like #OBJ#
+#SUBJ# is very similar to #OBJ#
+#OBJ# is very like #SUBJ#
+#OBJ# is related to #SUBJ#
+#OBJ# is very like #SUBJ#
+#SUBJ# and #OBJ# are very similar
+#SUBJ# and #OBJ# are very related
+
+[usedfor]
+#SUBJ# is for #OBJ#
+you can use #SUBJ# to #OBJ#
+#SUBJ# is used for #OBJ#
+#SUBJ# are used to #OBJ#
+#SUBJ# is used to #OBJ#
+#SUBJ# can be used to #OBJ#
+#SUBJ# is used for #OBJ#
+#SUBJ# is for #OBJ#
+#SUBJ# is used for the benefit of #OBJ#
+#SUBJ# can be used for #OBJ#
+#SUBJ# are used for #OBJ#
+#SUBJ# may be used to #OBJ#
+when you want to #OBJ# , you will use #SUBJ#
+#SUBJ# may be used for #OBJ#
+
+[receivesaction]
+#OBJ# can be done to #SUBJ#
+#OBJ# can be done on #SUBJ#
+#OBJ# can be done at #SUBJ#
+#SUBJ# are hinged at #OBJ#
+#SUBJ# is infected with #OBJ#
+#SUBJ# may be modelled in #OBJ#
+  

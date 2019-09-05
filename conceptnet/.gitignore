@@ -1,0 +1,5 @@
+conceptnet-assertions-*.csv
+conceptnet-assertions-*.csv.en
+conceptnet-assertions-*.csv.gz
+conceptnet_en.graphml
+!conceptnet-assertions-5.6.0.csv.en
