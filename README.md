@@ -126,8 +126,8 @@ python main.py
 
 #### Citation
 ```
-@InProceedings{kagnet-emnlp19,
-  author    = {Bill Yuchen Lin, Xinyue Chen, Jamin Chen, Xiang Ren},
+@inproceedings{kagnet-emnlp19,
+  author    = {Bill Yuchen Lin and Xinyue Chen and Jamin Chen and Xiang Ren},
   title     = {KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning.},
   booktitle = {Proceedings of EMNLP},
   year      = {2019},
