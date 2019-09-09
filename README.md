@@ -129,7 +129,7 @@ python main.py
 @inproceedings{kagnet-emnlp19,
   author    = {Bill Yuchen Lin and Xinyue Chen and Jamin Chen and Xiang Ren},
   title     = {KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning.},
-  booktitle = {Proceedings of EMNLP},
+  booktitle = {Proceedings of EMNLP-IJCNLP},
   year      = {2019},
 }
 ``` 
