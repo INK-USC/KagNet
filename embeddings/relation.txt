@@ -1,0 +1,17 @@
+antonym
+atlocation
+capableof
+causes
+createdby
+isa
+desires
+hassubevent
+partof
+hascontext
+hasproperty
+madeof
+notcapableof
+notdesires
+receivesaction
+relatedto
+usedfor
