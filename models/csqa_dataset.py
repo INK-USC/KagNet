@@ -408,6 +408,10 @@ class data_with_graphs_and_paths(data.Dataset):
 
     def slice(self, start=0, end=None):
         # slicing dataset
+        all_lists = list(zip(self.statements, self.correct_labels, self.qids, self.nxgs, self.dgs))
+        random.shuffle(all_lists)
+        self.statements, self.correct_labels, self.qids, self.nxgs, self.dgs = zip(*all_lists)
+
         self.statements = self.statements[start:end]
         self.correct_labels = self.correct_labels[start:end]
         self.qids = self.qids[start:end]
