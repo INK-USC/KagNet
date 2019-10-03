@@ -617,7 +617,6 @@ class KnowledgeAwareGraphNetworks(nn.Module):
         # new_concept_embed = nn.Embedding(output_concept_embeds.size()[0], output_concept_embeds.size()[1])
         # new_concept_embed.weight = nn.Parameter(output_concept_embeds)
 
-
         new_concept_embed = torch.cat((output_graphs.ndata["h"], s_vec_batched.new_zeros((1, self.graph_output_dim))))
         new_concept_embed = new_concept_embed.to(self.device)
 
@@ -625,13 +624,15 @@ class KnowledgeAwareGraphNetworks(nn.Module):
             path_att_scores = []
             qa_pair_att_scores = []
 
+
+
+
         for index in range(len(s_vec_batched)):  # len = batch_size * num_choices
             # for each question-answer statement
 
             s_vec = s_vec_batched[index].to(self.device)
             cpt_paths = cpt_paths_batched[index]
             rel_paths = rel_paths_batched[index]
-
 
             if len(qa_pairs_batched[index]) == 0 or False: # if "or True" then we can do abalation study
                 raw_qas_vecs = torch.cat((torch.zeros(1, self.graph_output_dim + self.concept_dim).to(self.device),
@@ -666,10 +667,19 @@ class KnowledgeAwareGraphNetworks(nn.Module):
 
 
                 mdict = concept_mapping_dicts[index]
-                new_q_vecs = new_concept_embed(
-                    torch.LongTensor([mdict.get(c, len(output_concept_embeds) - 1) for c in q_seq]).to(self.device))
-                new_a_vecs = new_concept_embed(
-                    torch.LongTensor([mdict.get(c, len(output_concept_embeds) - 1) for c in a_seq]).to(self.device))
+                # new_q_vecs = new_concept_embed(
+                #     torch.LongTensor([mdict.get(c, len(output_concept_embeds) - 1) for c in q_seq]).to(self.device))
+                # new_a_vecs = new_concept_embed(
+                #     torch.LongTensor([mdict.get(c, len(output_concept_embeds) - 1) for c in a_seq]).to(self.device))
+
+                new_q_vecs = new_concept_embed[
+                    torch.LongTensor([mdict.get(c, len(output_concept_embeds) - 1) for c in q_seq]).to(
+                        self.device)].view(len(q_seq), -1)
+                new_a_vecs = new_concept_embed[
+                    torch.LongTensor([mdict.get(c, len(output_concept_embeds) - 1) for c in a_seq]).to(
+                        self.device)].view(len(a_seq), -1)
+
+
 
                 ## new_q_vecs = torch.index_select(output_concept_embeds, 0, q_seq)
                 ## new_a_vecs = torch.index_select(output_concept_embeds, 0, a_seq)
@@ -722,7 +732,10 @@ class KnowledgeAwareGraphNetworks(nn.Module):
                 for cpt_path in cpt_paths:
                     mdicted_cpaths.append([mdict.get(c, len(output_concept_embeds)-1) for c in cpt_path])
                 mdicted_cpaths = torch.LongTensor(mdicted_cpaths).to(self.device)
-                new_batched_all_qa_cpt_paths_embeds = new_concept_embed(mdicted_cpaths).permute(1, 0, 2)
+                # new_batched_all_qa_cpt_paths_embeds = new_concept_embed(mdicted_cpaths).permute(1, 0, 2)
+                new_batched_all_qa_cpt_paths_embeds = new_concept_embed[mdicted_cpaths].view(len(cpt_paths),
+                                                                                             len(cpt_paths[0]),
+                                                                                             -1).permute(1, 0, 2)
 
                 batched_all_qa_cpt_paths_embeds = self.concept_emd(torch.LongTensor(cpt_paths).to(self.device)).permute(1, 0, 2) # old concept embed
 
