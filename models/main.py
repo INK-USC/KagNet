@@ -137,8 +137,8 @@ def eval_kag_netowrk(eval_set, batch_size ,  device, model, num_choice):
 
 
 def train_kagnet_main():
-    pretrain_cpt_emd_path = "/home/bill/CSR/embeddings/openke_data/embs/glove_initialized/glove.transe.sgd.ent.npy"
-    pretrain_rel_emd_path = "/home/bill/CSR/embeddings/openke_data/embs/glove_initialized/glove.transe.sgd.rel.npy"
+    pretrain_cpt_emd_path = "../embeddings/openke_data/embs/glove_initialized/ent.npy"
+    pretrain_rel_emd_path = "../embeddings/openke_data/embs/glove_initialized/rel.npy"
 
     pretrained_concept_emd = load_embeddings(pretrain_cpt_emd_path)
     pretrained_relation_emd = load_embeddings(pretrain_rel_emd_path)
@@ -174,20 +174,20 @@ def train_kagnet_main():
 
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
-    train_set = data_with_graphs_and_paths("/home/bill/CSR/datasets/csqa_new/train_rand_split.jsonl.statements",
-                      "/home/bill/CSR/datasets/csqa_new/train_rand_split.jsonl.statements.pruned.0.15.pnxg",
-                      "/home/bill/CSR/datasets/csqa_new/train_rand_split.jsonl.statements.mcp.pf.cls.pruned.0.15.pickle",
-                      "/home/bill/CSR/datasets/csqa_new/train_rand_split.jsonl.statements.finetuned.large.-2.npy",
-                      num_choice=5, reload=True, cut_off=3, start=0, end=None)
+    train_set = data_with_graphs_and_paths("../datasets/csqa_new/train_rand_split.jsonl.statements",
+                      "../datasets/csqa_new/train_rand_split.jsonl.statements.pruned.0.15.pnxg",
+                      "../datasets/csqa_new/train_rand_split.jsonl.statements.mcp.pf.cls.pruned.0.15.pickle",
+                      "../datasets/csqa_new/train_rand_split.jsonl.statements.finetuned.large.-2.npy",
+                      num_choice=5, reload=False, cut_off=3, start=0, end=None)
     test_set = copy.copy(train_set)
     train_set.slice(0, 8500)
     test_set.slice(8500, None)
 
-    dev_set = data_with_graphs_and_paths("/home/bill/CSR/datasets/csqa_new/dev_rand_split.jsonl.statements",
-                      "/home/bill/CSR/datasets/csqa_new/dev_rand_split.jsonl.statements.pruned.0.15.pnxg",
-                      "/home/bill/CSR/datasets/csqa_new/dev_rand_split.jsonl.statements.mcp.pf.cls.pruned.0.15.pickle",
-                      "/home/bill/CSR/datasets/csqa_new/dev_rand_split.jsonl.statements.finetuned.large.-2.npy",
-                      num_choice=5, reload=True, cut_off=3, start=0, end=None)
+    dev_set = data_with_graphs_and_paths("../datasets/csqa_new/dev_rand_split.jsonl.statements",
+                      "../datasets/csqa_new/dev_rand_split.jsonl.statements.pruned.0.15.pnxg",
+                      "../datasets/csqa_new/dev_rand_split.jsonl.statements.mcp.pf.cls.pruned.0.15.pickle",
+                      "../datasets/csqa_new/dev_rand_split.jsonl.statements.finetuned.large.-2.npy",
+                      num_choice=5, reload=False, cut_off=3, start=0, end=None)
 
 
     print("len(train_set):", len(train_set), "len(dev_set):", len(dev_set))
