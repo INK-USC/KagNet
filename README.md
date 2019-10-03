@@ -133,6 +133,7 @@ python main.py
   year      = {2019},
 }
 ``` 
-
+#### Remarks
 Feel free to email yuchen.lin[at]usc[dot]edu if you have any questions and need help. 
+Pre-trained models and other resources will be pushed here soon.
 
