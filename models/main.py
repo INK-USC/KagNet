@@ -179,9 +179,7 @@ def train_kagnet_main():
                       "../datasets/csqa_new/train_rand_split.jsonl.statements.mcp.pf.cls.pruned.0.15.pickle",
                       "../datasets/csqa_new/train_rand_split.jsonl.statements.finetuned.large.-2.npy",
                       num_choice=5, reload=False, cut_off=3, start=0, end=None)
-    test_set = copy.copy(train_set)
-    train_set.slice(0, 8500)
-    test_set.slice(8500, None)
+    
 
     dev_set = data_with_graphs_and_paths("../datasets/csqa_new/dev_rand_split.jsonl.statements",
                       "../datasets/csqa_new/dev_rand_split.jsonl.statements.pruned.0.15.pnxg",
@@ -227,16 +225,12 @@ def train_kagnet_main():
         dev_acc = eval_kag_netowrk(dev_set, batch_size, device, model, num_choice)
         print("dev acc: %.5f" % dev_acc)
 
-        test_acc = eval_kag_netowrk(test_set, batch_size, device, model, num_choice)
-        print("test acc: %.5f" % test_acc)
-
         if dev_acc >= best_dev_acc:
             best_dev_acc = dev_acc
             no_up = 0
             torch.save(model.state_dict(),
                        'model_save/{:s}_model_acc_{:.4f}.model'
                        .format("tmp", best_dev_acc))
-            print("best_dev---test acc: %.5f" % test_acc)
         else:
             no_up += 1
             if no_up > patience:
