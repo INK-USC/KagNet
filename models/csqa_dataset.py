@@ -8,6 +8,7 @@ import pickle
 import os
 import dgl
 import networkx as nx
+import random
 
 def load_embeddings(path):
     print("Loading glove concept embeddings with pooling:", path)
