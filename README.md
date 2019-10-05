@@ -134,6 +134,6 @@ python main.py
 }
 ``` 
 #### Remarks
-Feel free to email yuchen.lin[at]usc[dot]edu if you have any questions and need help. 
+Feel free to email yuchen[dot]lin[at]usc[dot]edu if you have any questions and need help. 
 Pre-trained models and other resources will be pushed here soon.
 
