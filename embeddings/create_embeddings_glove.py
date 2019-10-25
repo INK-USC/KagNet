@@ -102,8 +102,8 @@ def create_embeddings_glove(pooling="max", dim=100):
         rel_embeddings_cnt[rel] += 1
 
         if pooling == "avg":
-            subj_encoding_sum = sum([glove_embeddings.get(word, np.zeros((dim,))) for word in subj])
-            obj_encoding_sum = sum([glove_embeddings.get(word, np.zeros((dim,))) for word in obj])
+            subj_encoding_sum = sum([glove_embeddings.get(word, np.zeros((dim,))) for word in subj_words])
+            obj_encoding_sum = sum([glove_embeddings.get(word, np.zeros((dim,))) for word in obj_words])
 
             if rel in ["relatedto", "antonym"]:
                 # Symmetric relation.
