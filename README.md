@@ -1,6 +1,9 @@
- # KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning 
+# KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning
  
-#### Introduction
+*News:*
+We released a more general and advanced framework, [MHGRN](https://github.com/INK-USC/MHGRN), which includes more options for text/graph encoders. It also matches the current state-of-the-art performance (76.5% acc) on the offical CommonsenseQA test set. 
+ 
+### Introduction
 This codebase is an implementation of the proposed KagNet model for commonsense reasoning (EMNLP-IJCNLP 2019). 
 
 
@@ -10,7 +13,7 @@ This codebase is an implementation of the proposed KagNet model for commonsense 
 ![](figures/kagnet.png)
  
  
-#### Install Dependencies 
+### Install Dependencies 
 
 ```
 sudo apt-get install graphviz libgraphviz-dev pkg-config
@@ -47,12 +50,16 @@ python convert_csqa.py csqa_new/dev_rand_split.jsonl csqa_new/dev_rand_split.jso
 python convert_csqa.py csqa_new/test_rand_split_no_answers.jsonl csqa_new/test_rand_split_no_answers.jsonl.statements
 ```
 
-#### Preprocess ConceptNet and embedding files
+### Preprocess ConceptNet and embedding files
 ```
 cd ../conceptnet
 wget https://s3.amazonaws.com/conceptnet/downloads/2018/edges/conceptnet-assertions-5.6.0.csv.gz
 gzip -d conceptnet-assertions-5.6.0.csv.gz
 python extract_cpnet.py
+
+
+cd ../triple_string
+python triple_string_generation.py
 
 # get concept and relation embeddings with frequency and vocab files
 cd ../embeddings/
@@ -65,7 +72,7 @@ python glove_to_npy.py
 python create_embeddings_glove.py
 ```
 
-#### Concept Grounding
+### Concept Grounding
 ```
 # concept grounding: core concept recognition (find mentioned concepts)
  
@@ -111,7 +118,7 @@ python graph_gen.py train
 python graph_gen.py test
 ```
 
-#### Train KagNet based on extracted BERT embeddings
+### Train KagNet based on extracted BERT embeddings
 ```
 cd ../baselines/
 
@@ -124,7 +131,7 @@ python main.py
 
 ```
 
-#### Citation
+### Citation
 ```
 @inproceedings{kagnet-emnlp19,
   author    = {Bill Yuchen Lin and Xinyue Chen and Jamin Chen and Xiang Ren},
