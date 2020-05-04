@@ -1,4 +1,4 @@
-# KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning
+# KagNet: Knowledge-Aware Graph Networks
  
 *News:*
 We released a more general and advanced framework, [MHGRN](https://github.com/INK-USC/MHGRN), which includes more options for text/graph encoders. It also matches the current state-of-the-art performance (76.5% acc) on the offical CommonsenseQA test set. 
