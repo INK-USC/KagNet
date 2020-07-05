@@ -1,7 +1,7 @@
 # KagNet: Knowledge-Aware Graph Networks
  
-*News:*
-We released a more general and advanced framework, [MHGRN](https://github.com/INK-USC/MHGRN), which includes more options for text/graph encoders. It also matches the current state-of-the-art performance (76.5% acc) on the offical CommonsenseQA test set. 
+_**News:**_
+We released a more general-purpose LM-GNN reasoning framework, [MHGRN](https://github.com/INK-USC/MHGRN), which includes more options for text/graph encoders. It also matches the current state-of-the-art performance (76.5% acc) on the offical CommonsenseQA test set. We won't maintain this repo, so please follow the new repo.
  
 ### Introduction
 This codebase is an implementation of the proposed KagNet model for commonsense reasoning (EMNLP-IJCNLP 2019). 
@@ -41,7 +41,7 @@ cd datasets
 mkdir csqa_new
 
 wget -P csqa_new https://s3.amazonaws.com/commensenseqa/train_rand_split.jsonl
-wget -P csqa_new https://s3.amazonaws.com/commensenseqa/dev_rand_split.jsonl
+wget -P csqa_new https://s3.amazonaws.com/commensenseqa/dev_rand_split.jsonl 
 wget -P csqa_new https://s3.amazonaws.com/commensenseqa/test_rand_split_no_answers.jsonl
 
 
@@ -141,6 +141,5 @@ python main.py
 }
 ``` 
 #### Remarks
-Feel free to email yuchen[dot]lin[at]usc[dot]edu if you have any questions and need help. 
-Pre-trained models and other resources will be pushed here soon.
+Feel free to email yuchen[dot]lin[at]usc[dot]edu if you have any questions and need help.
 
